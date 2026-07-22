@@ -1,0 +1,6 @@
+requests
+requests-oauthlib
+psycopg2-binary
+fuzzywuzzy
+python-Levenshtein
+Unidecode

@@ -1,0 +1,62 @@
+name: Snowball (digest + retrodiction)
+
+on:
+  schedule:
+    - cron: "0 6 * * *"    # retrodizione: ogni giorno 06:00 UTC
+    - cron: "0 7 * * 1"    # digest: lunedì 07:00 UTC
+  workflow_dispatch: {}    # trigger manuale per test
+
+permissions:
+  contents: write          # commit di heartbeat, ledger dedup e archivio docs/
+
+jobs:
+  snowball:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install deps
+        run: pip install -r requirements.txt
+
+      - name: Retrodiction (daily)
+        if: github.event.schedule == '0 6 * * *' || github.event_name == 'workflow_dispatch'
+        env:
+          DATABASE_URL: ${{ secrets.DATABASE_URL }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          CHANNEL_PUBLIC: ${{ secrets.CHANNEL_PUBLIC }}
+          CHANNEL_PRIVATE: ${{ secrets.CHANNEL_PRIVATE }}
+          CHANNEL_ADMIN: ${{ secrets.CHANNEL_ADMIN }}
+          X_API_KEY: ${{ secrets.X_API_KEY }}
+          X_API_SECRET: ${{ secrets.X_API_SECRET }}
+          X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
+          X_ACCESS_SECRET: ${{ secrets.X_ACCESS_SECRET }}
+        run: python scripts/snowball_retrodiction.py
+
+      - name: Digest (weekly, Monday)
+        if: github.event.schedule == '0 7 * * 1'
+        env:
+          DATABASE_URL: ${{ secrets.DATABASE_URL }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          CHANNEL_PUBLIC: ${{ secrets.CHANNEL_PUBLIC }}
+          CHANNEL_PRIVATE: ${{ secrets.CHANNEL_PRIVATE }}
+          CHANNEL_ADMIN: ${{ secrets.CHANNEL_ADMIN }}
+          X_API_KEY: ${{ secrets.X_API_KEY }}
+          X_API_SECRET: ${{ secrets.X_API_SECRET }}
+          X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
+          X_ACCESS_SECRET: ${{ secrets.X_ACCESS_SECRET }}
+        run: python scripts/snowball_digest.py
+
+      - name: Persist state (heartbeat + ledger + archivio SEO)
+        if: always()
+        run: |
+          git config user.name "snowball-bot"
+          git config user.email "bot@snowball"
+          git add heartbeat.jsonl data/posted_hits.json docs/ || true
+          git diff --cached --quiet || git commit -m "snowball state $(date -u +%F)"
+          git pull --rebase || true
+          git push || true

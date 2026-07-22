@@ -1,0 +1,29 @@
+{
+    "version": "snowball-2.0",
+    "project_name": "Ouroboros Snowball",
+
+    "public_brand": "Ouroboros Radar",
+    "site_url": "matchanalysispro.online",
+    "archive_url": "https://mtornani.github.io/ouroboros-snowball/radar/",
+
+    "channels": {
+        "x": true,
+        "site": true,
+        "telegram_public": false,
+        "telegram_private": true
+    },
+
+    "excluded_competitions": ["Serie C", "Lega Pro"],
+
+    "min_score": 40,
+    "match_threshold": 88,
+    "min_lead_days": 14,
+    "max_hits_per_day": 2,
+
+    "retro_queries": [
+        "ufficiale firma giovane calciatore Serie D",
+        "convocato nazionale under 19 esordio",
+        "acquisto ufficiale attaccante giovanili",
+        "esordio giovane calciatore prima squadra"
+    ]
+}
