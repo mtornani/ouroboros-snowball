@@ -56,7 +56,7 @@ jobs:
         run: |
           git config user.name "snowball-bot"
           git config user.email "bot@snowball"
-          git add heartbeat.jsonl data/posted_hits.json docs/ || true
+          git add heartbeat.jsonl data/posted_hits.json data/first_seen.json docs/ || true
           git diff --cached --quiet || git commit -m "snowball state $(date -u +%F)"
           git pull --rebase || true
           git push || true

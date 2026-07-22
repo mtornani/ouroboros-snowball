@@ -41,6 +41,7 @@ CONFIG_PATH = BASE / "config.json"
 HEARTBEAT_PATH = BASE / "heartbeat.jsonl"
 CACHE_DIR = BASE / "data" / "cache"
 POSTED_PATH = BASE / "data" / "posted_hits.json"
+FIRST_SEEN_PATH = BASE / "data" / "first_seen.json"
 
 # Mappa tier (schema reale discovery_engine.py) -> etichetta "league"
 # leggibile. serie_c/serie_c_riserve confluiscono su "Serie C" apposta:
@@ -100,18 +101,60 @@ def fetch_news(config: dict) -> list:
     return items
 
 
+def _load_first_seen() -> dict:
+    if FIRST_SEEN_PATH.exists():
+        return json.loads(FIRST_SEEN_PATH.read_text(encoding="utf-8"))
+    return {}
+
+
+def _update_first_seen(ledger: dict, feed: dict) -> bool:
+    """Append-only: aggiunge SOLO i candidati non ancora nel ledger, con
+    first_seen = adesso. Le voci esistenti non si toccano mai — il file,
+    committato ad ogni run da GitHub Actions, e' la prova pubblica di
+    QUANDO un candidato e' stato visto la prima volta (la data del commit
+    che introduce una chiave e' verificabile su GitHub tanto quanto il
+    campo stesso)."""
+    now = datetime.now(timezone.utc).isoformat()
+    changed = False
+    for cid, record in feed.items():
+        if cid in ledger:
+            continue
+        identity = record.get("identity") or {}
+        ledger[cid] = {
+            "first_seen": now,
+            "name": identity.get("name"),
+            "club": identity.get("club"),
+            "league": _tier_to_league(identity.get("tier")),
+        }
+        changed = True
+    return changed
+
+
+def _save_first_seen(ledger: dict):
+    FIRST_SEEN_PATH.parent.mkdir(parents=True, exist_ok=True)
+    FIRST_SEEN_PATH.write_text(
+        json.dumps(ledger, ensure_ascii=False, indent=2, sort_keys=True),
+        encoding="utf-8")
+
+
 def fetch_historical_flags() -> list:
     """
     All historical flags with first-seen timestamp.
 
     ADAPT (Claude Code): stesso store JSONB di fetch_week_top (radar_state,
     key='radar_feed') — non esiste una tabella "flagged_players" da fare
-    GROUP BY. flagged_at = history[0]["run_at"], il run piu' vecchio ancora
-    conservato per quel candidato. Limite onesto ereditato dallo schema
-    upstream: discovery_engine.py tronca la history di ogni candidato alle
-    ultime 30 run (vedi record["history"][-30:]), quindi per un candidato
-    monitorato per moltissimi run il vero primo avvistamento puo' essere
-    piu' antico di quanto qui riportato.
+    GROUP BY.
+
+    FIX STRUTTURALE: discovery_engine.py tronca la history di ogni
+    candidato alle ultime 30 run (~7-8 giorni a 1 run/6h, vedi
+    record["history"][-30:]) — usare history[0]["run_at"] come flagged_at
+    tappava l'anticipo massimo rilevabile a circa una settimana, sotto
+    min_lead_days=14 del config: la retrodizione non scattava quasi mai.
+    Il ledger append-only data/first_seen.json risolve alla radice: il
+    PRIMO run in cui un candidato compare ne fissa il first_seen per
+    sempre, indipendentemente da quanto la history si tronchi dopo.
+    Fallback su history[0] solo per candidati non ancora nel ledger
+    (prima riga del ledger, o history vuota).
     Required fields: name, club, league, flagged_at.
     """
     with psycopg2.connect(os.environ["DATABASE_URL"]) as conn:
@@ -120,17 +163,23 @@ def fetch_historical_flags() -> list:
             row = cur.fetchone()
     feed = row["data"] if row else {}
 
+    ledger = _load_first_seen()
+    if _update_first_seen(ledger, feed):
+        _save_first_seen(ledger)
+
     rows = []
-    for record in feed.values():
+    for cid, record in feed.items():
         history = record.get("history") or []
         if not history:
             continue
         identity = record.get("identity") or {}
+        entry = ledger.get(cid)
+        flagged_at = entry["first_seen"] if entry else history[0]["run_at"]
         rows.append({
             "name": identity.get("name"),
             "club": identity.get("club"),
             "league": _tier_to_league(identity.get("tier")),
-            "flagged_at": history[0]["run_at"],
+            "flagged_at": flagged_at,
         })
     logger.info(f"Loaded {len(rows)} historical flags")
     return rows
