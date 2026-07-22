@@ -114,14 +114,15 @@ def fetch_week_top(config: dict):
 # ------------------------------------------------------------- compose ---
 
 def compose_x_teaser(public_rows: list, config: dict) -> str:
-    """X teaser: 3 names, archive link as proof, <=280 chars."""
+    """X teaser: 3 names, <=280 chars. Niente URL nel testo (pricing X:
+    post con link costano 13x pay-per-use) — l'archivio si richiama a parole."""
     names = " · ".join(
         f"{p['name']} ({p.get('club') or '?'})" for p in public_rows[:3])
     return (
         f"🐍 Radar settimanale — 3 dei {len(public_rows)} nomi di questa "
         f"settimana:\n{names}\n"
         f"Lista completa e note sul canale riservato. "
-        f"Archivio: {config.get('archive_url', '')}"
+        f"Archivio timestampato: link in bio"
     )
 
 

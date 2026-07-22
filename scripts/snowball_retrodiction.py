@@ -199,15 +199,15 @@ def dedup_hits(hits: list) -> list:
 # ------------------------------------------------------------- compose ---
 
 def compose_x(hit: dict, config: dict) -> str:
-    """X card: <=280 chars, quotable, links to the archive as proof."""
+    """X card: <=280 chars, quotable. Niente URL nel testo (pricing X: post
+    con link costano 13x pay-per-use) — l'archivio si richiama a parole."""
     weeks = hit["lead_days"] // 7
     lead = f"{weeks} settimane" if weeks >= 2 else f"{hit['lead_days']} giorni"
-    archive = config.get("archive_url", "")
     return (
         f"🎯 {hit['player']} era nel nostro radar dal "
         f"{hit['flagged_at'][:10]}.\n"
         f"Oggi è notizia. Anticipo: {lead}.\n"
-        f"Archivio timestampato: {archive}"
+        f"Archivio timestampato: link in bio"
     )
 
 
