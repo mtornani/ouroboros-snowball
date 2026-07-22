@@ -108,20 +108,29 @@ def _load_first_seen() -> dict:
 
 
 def _update_first_seen(ledger: dict, feed: dict) -> bool:
-    """Append-only: aggiunge SOLO i candidati non ancora nel ledger, con
-    first_seen = adesso. Le voci esistenti non si toccano mai — il file,
-    committato ad ogni run da GitHub Actions, e' la prova pubblica di
-    QUANDO un candidato e' stato visto la prima volta (la data del commit
-    che introduce una chiave e' verificabile su GitHub tanto quanto il
-    campo stesso)."""
+    """Append-only: aggiunge SOLO i candidati non ancora nel ledger. Le voci
+    esistenti non si toccano mai — il file, committato ad ogni run da
+    GitHub Actions, e' la prova pubblica di QUANDO un candidato e' stato
+    visto la prima volta (la data del commit che introduce una chiave e'
+    verificabile su GitHub tanto quanto il campo stesso).
+
+    first_seen = history[0]["run_at"] quando disponibile, perche' e' sempre
+    piu' vecchio di "adesso": al bootstrap recupera fino a ~7,5 giorni di
+    anzianita' gia' dimostrabile per i candidati correnti (la history non
+    e' ancora stata troncata da questo ledger), e a regime copre il gap
+    naturale tra i run della pipeline di discovery (ogni 6h) e il run
+    giornaliero della retrodizione. Fallback su "adesso" solo se un
+    candidato non ha ancora nessuna history."""
     now = datetime.now(timezone.utc).isoformat()
     changed = False
     for cid, record in feed.items():
         if cid in ledger:
             continue
         identity = record.get("identity") or {}
+        history = record.get("history") or []
+        first_seen = history[0]["run_at"] if history else now
         ledger[cid] = {
-            "first_seen": now,
+            "first_seen": first_seen,
             "name": identity.get("name"),
             "club": identity.get("club"),
             "league": _tier_to_league(identity.get("tier")),
