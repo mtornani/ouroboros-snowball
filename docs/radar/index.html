@@ -58,7 +58,7 @@ a:hover { color:var(--accent-hover); }
 <body>
 <div class="header"><div class="header-content">
   <div class="logo">Ouroboros Radar</div>
-  <div class="text-muted" style="font-size:12px">agg. 23/07/2026</div>
+  <div class="text-muted" style="font-size:12px">agg. 24/07/2026</div>
 </div></div>
 <div class="container">
   <p class="text-muted" style="margin:var(--space-md) 0 var(--space-lg)">
@@ -66,9 +66,9 @@ a:hover { color:var(--accent-hover); }
     Non prevediamo: prioritizziamo l'attenzione. L'archivio &egrave; la prova.
   </p>
   <div class="stats-row">
-    <div class="stat"><div class="stat-value">1</div>
+    <div class="stat"><div class="stat-value">2</div>
         <div class="stat-label">Retrodizioni</div></div>
-    <div class="stat"><div class="stat-value">17</div>
+    <div class="stat"><div class="stat-value">18</div>
         <div class="stat-label">Anticipo medio (gg)</div></div>
   </div>
   <div id="cards"></div>
@@ -78,7 +78,7 @@ a:hover { color:var(--accent-hover); }
   </p>
 </div>
 <script>
-const CARDS = [{"kind": "hit", "title": "João Costa", "body": "Segnalato il 2026-07-06. Oggi: Chi è Joao Costa, il funambolo della Roma Primavera che ha debuttato in Europa League - RomaToday", "date": "2026-07-23", "lead_days": 17, "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOX2VpblBEdnVaTjliOWVPY2I3MTNKRHlYbWI2MEVvYUVTbjdhZWtObkUzUTJxX2RoT1ZSdlFXNDJVZzFrTFZoSFdhS3dRdElsR2VRZUNaX0lKZHJRTmZHajQzeF9rNWpCUkpXLU9GSG1FQ3BWellKeE45X0kzQVdWX1pMYw?oc=5"}];
+const CARDS = [{"kind": "hit", "title": "Christian Torres", "body": "Segnalato il 2026-07-06. Oggi: Christian Torre lascia il Napoli e va al Catania. La nota ufficiale degli etnei - AreaNapoli.it", "date": "2026-07-24", "lead_days": 18, "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUFpCUldWMUM4QnlrdDV0S2VwblpFbF9YSlpibGhpRy1PbmVkYXJKQWZySXZ2YjVNSElfV29SSzl2akxhMW1RTUpkWi01MzZSM0RVczdxWUcydEpVMkZIcGU3SWNKbjJhZHdrNTE5OWFTVWJkQ2k0QXBaRWlzWk0yaGlGZjFsbk5uS1NUM1pycTM5dFJIUGxhcmhrV2FBTjB6YnpDRHlhVTlxOS1abjU4V3ZqZ09WRXdFamFPZW1IOWhvUUViMGxLV0lR?oc=5"}, {"kind": "hit", "title": "João Costa", "body": "Segnalato il 2026-07-06. Oggi: Chi è Joao Costa, il funambolo della Roma Primavera che ha debuttato in Europa League - RomaToday", "date": "2026-07-23", "lead_days": 17, "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOX2VpblBEdnVaTjliOWVPY2I3MTNKRHlYbWI2MEVvYUVTbjdhZWtObkUzUTJxX2RoT1ZSdlFXNDJVZzFrTFZoSFdhS3dRdElsR2VRZUNaX0lKZHJRTmZHajQzeF9rNWpCUkpXLU9GSG1FQ3BWellKeE45X0kzQVdWX1pMYw?oc=5"}];
 function render() {
     const el = document.getElementById('cards');
     el.innerHTML = CARDS.map(c => `
