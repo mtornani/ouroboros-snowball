@@ -65,6 +65,12 @@
     "league": "Pool nazionalità",
     "name": "Hassan Al-Asmari"
   },
+  "Q100924143": {
+    "club": "Venlose Voetbal Vereniging Venlo",
+    "first_seen": "2026-08-11T17:27:15.317407+00:00",
+    "league": "netherlands_2",
+    "name": "Wassim Essanoussi"
+  },
   "Q100944493": {
     "club": "",
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
@@ -101,6 +107,12 @@
     "league": "Pool nazionalità",
     "name": "Oumar Traoré"
   },
+  "Q101420267": {
+    "club": "Real Zaragoza",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_3",
+    "name": "Iván Azón"
+  },
   "Q101477741": {
     "club": "",
     "first_seen": "2026-07-05T10:22:50.272631+00:00",
@@ -112,6 +124,18 @@
     "first_seen": "2026-07-05T20:00:26.197276+00:00",
     "league": "Pool nazionalità",
     "name": "Pipi Nakai"
+  },
+  "Q101628205": {
+    "club": "NAC Breda",
+    "first_seen": "2026-08-11T17:27:15.317407+00:00",
+    "league": "netherlands_2",
+    "name": "Luc Marijnissen"
+  },
+  "Q101628317": {
+    "club": "Football Club Eindhoven",
+    "first_seen": "2026-08-11T17:27:15.317407+00:00",
+    "league": "netherlands_2",
+    "name": "Jort Borgmans"
   },
   "Q101771882": {
     "club": "Inter Miami CF II",
@@ -209,6 +233,18 @@
     "league": "Pool nazionalità",
     "name": "André Amaro"
   },
+  "Q104439000": {
+    "club": "Girona Futbol Club",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_2",
+    "name": "Arnau Martínez"
+  },
+  "Q104444301": {
+    "club": "Clermont Foot Auvergne",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "france_2",
+    "name": "Mélissa Vieux"
+  },
   "Q104535897": {
     "club": "",
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
@@ -239,6 +275,12 @@
     "league": "Pool nazionalità",
     "name": "Abbas Al-Hassan"
   },
+  "Q104634496": {
+    "club": "Jong FC Utrecht",
+    "first_seen": "2026-08-11T17:27:15.317407+00:00",
+    "league": "netherlands_2",
+    "name": "Aurelio Oehlers"
+  },
   "Q104635275": {
     "club": "",
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
@@ -262,6 +304,12 @@
     "first_seen": "2026-07-05T20:00:26.197276+00:00",
     "league": "Pool nazionalità",
     "name": "Haruki Shimokawa"
+  },
+  "Q104685120": {
+    "club": "Real Zaragoza",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_3",
+    "name": "Sem Westerveld"
   },
   "Q104717349": {
     "club": "",
@@ -431,6 +479,12 @@
     "league": "Pool nazionalità",
     "name": "Kai Ishizu"
   },
+  "Q105298474": {
+    "club": "Fußball-Club St. Pauli von 1910",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "germany_2",
+    "name": "Arkadiusz Pyrka"
+  },
   "Q105300385": {
     "club": "",
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
@@ -461,6 +515,12 @@
     "league": "Pool nazionalità",
     "name": "Bento Estrela"
   },
+  "Q105426428": {
+    "club": "Football Club de Nantes",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "france_2",
+    "name": "Quentin Merlin"
+  },
   "Q105457176": {
     "club": "",
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
@@ -478,6 +538,12 @@
     "first_seen": "2026-07-05T10:22:50.272631+00:00",
     "league": "Pool nazionalità",
     "name": "Lucas Demitra"
+  },
+  "Q105574125": {
+    "club": "Almere City Football Club",
+    "first_seen": "2026-08-11T17:27:15.317407+00:00",
+    "league": "netherlands_2",
+    "name": "Stije Resink"
   },
   "Q105575806": {
     "club": "Chelsea Football Club",
@@ -574,6 +640,12 @@
     "first_seen": "2026-07-05T20:00:26.197276+00:00",
     "league": "Pool nazionalità",
     "name": "Sota Matsubara"
+  },
+  "Q105721907": {
+    "club": "Rijnsburgse Boys",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "netherlands_3",
+    "name": "Akke van den Born"
   },
   "Q105722878": {
     "club": "",
@@ -737,6 +809,12 @@
     "league": "Pool nazionalità",
     "name": "Tomoya Osawa"
   },
+  "Q106096063": {
+    "club": "Düsseldorfer Turn- und Sportverein Fortuna 1895",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "germany_3",
+    "name": "Marin Ljubičić"
+  },
   "Q106096156": {
     "club": "",
     "first_seen": "2026-07-05T20:00:26.197276+00:00",
@@ -773,11 +851,23 @@
     "league": "Pool nazionalità",
     "name": "Axel Bartsch"
   },
+  "Q106313163": {
+    "club": "Empoli Football Club",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "serie_b",
+    "name": "Kristjan Asllani"
+  },
   "Q106352999": {
     "club": "",
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
     "league": "Pool nazionalità",
     "name": "Mehmet-Can Aydın"
+  },
+  "Q106359490": {
+    "club": "Football Club de Martigues",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "france_2",
+    "name": "Ilyes Najim"
   },
   "Q106365742": {
     "club": "",
@@ -856,6 +946,12 @@
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
     "league": "Pool nazionalità",
     "name": "Ibrahim Aliyu"
+  },
+  "Q106489320": {
+    "club": "Sport Clube União Torreense",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "portugal_2",
+    "name": "Johan Bengtsson"
   },
   "Q106532163": {
     "club": "",
@@ -947,6 +1043,12 @@
     "league": "Pool nazionalità",
     "name": "Kwame Otu"
   },
+  "Q106645526": {
+    "club": "UC Sampdoria",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "serie_b",
+    "name": "Telasco Segovia"
+  },
   "Q106651991": {
     "club": "",
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
@@ -995,11 +1097,23 @@
     "league": "Pool nazionalità",
     "name": "Ozzie Cisneros"
   },
+  "Q106684875": {
+    "club": "Sportgemeinschaft Dynamo Dresden",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "germany_2",
+    "name": "Jonas Kühn"
+  },
   "Q106687210": {
     "club": "",
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
     "league": "Pool nazionalità",
     "name": "Saleh Aboulshamat"
+  },
+  "Q106689196": {
+    "club": "Sestao River Club",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_3",
+    "name": "Giuliana González Ranzuglia"
   },
   "Q106696217": {
     "club": "",
@@ -1085,6 +1199,12 @@
     "league": "Pool nazionalità",
     "name": "Lee Han-beom"
   },
+  "Q106781889": {
+    "club": "Girona Futbol Club",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_2",
+    "name": "Vladyslav Vanat"
+  },
   "Q106786453": {
     "club": "",
     "first_seen": "2026-07-05T10:22:50.272631+00:00",
@@ -1108,6 +1228,12 @@
     "first_seen": "2026-07-05T10:22:50.272631+00:00",
     "league": "Pool nazionalità",
     "name": "Griffin Dillon"
+  },
+  "Q106860226": {
+    "club": "Football Bourg-en-Bresse Péronnas 01",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "france_3",
+    "name": "Mathéo Bodmer"
   },
   "Q106860268": {
     "club": "",
@@ -1139,6 +1265,12 @@
     "league": "Pool nazionalità",
     "name": "Abel Mendoza"
   },
+  "Q106861878": {
+    "club": "Hallescher Fußball-Club",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "germany_3",
+    "name": "Tim Schreiber"
+  },
   "Q106873537": {
     "club": "",
     "first_seen": "2026-07-05T10:22:50.272631+00:00",
@@ -1168,6 +1300,12 @@
     "first_seen": "2026-07-05T10:22:50.272631+00:00",
     "league": "Pool nazionalità",
     "name": "Owen Walz"
+  },
+  "Q106939313": {
+    "club": "AS Saint-Étienne",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "france_2",
+    "name": "Ben Old"
   },
   "Q106962125": {
     "club": "",
@@ -1312,6 +1450,12 @@
     "first_seen": "2026-07-05T10:22:50.272631+00:00",
     "league": "Pool nazionalità",
     "name": "Grant Hampton"
+  },
+  "Q107046836": {
+    "club": "Real Oviedo",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_2",
+    "name": "Álex Suárez Cardero"
   },
   "Q107054891": {
     "club": "",
@@ -1468,6 +1612,18 @@
     "first_seen": "2026-07-05T10:24:24.770078+00:00",
     "league": "Pool nazionalità",
     "name": "Alex Alcala"
+  },
+  "Q107284545": {
+    "club": "Real Zaragoza",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_3",
+    "name": "Samed Baždar"
+  },
+  "Q107299476": {
+    "club": "Football Club Den Bosch",
+    "first_seen": "2026-08-11T17:27:15.317407+00:00",
+    "league": "netherlands_2",
+    "name": "Ryan Leijten"
   },
   "Q107301406": {
     "club": "",
@@ -1661,6 +1817,12 @@
     "league": "Pool nazionalità",
     "name": "Ransford Appah"
   },
+  "Q107575674": {
+    "club": "Mantova 1911",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "serie_b",
+    "name": "Rareș Ilie"
+  },
   "Q107576738": {
     "club": "",
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
@@ -1775,6 +1937,12 @@
     "league": "Pool nazionalità",
     "name": "Nick Holliday"
   },
+  "Q107922258": {
+    "club": "Football Club Emmen",
+    "first_seen": "2026-08-11T17:27:15.317407+00:00",
+    "league": "netherlands_2",
+    "name": "Noam Emeran"
+  },
   "Q107930811": {
     "club": "Newcastle United Football Club",
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
@@ -1823,6 +1991,18 @@
     "league": "Pool nazionalità",
     "name": "Abderahmane Soussi"
   },
+  "Q108101354": {
+    "club": "Club Deportivo Leganés",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_2",
+    "name": "Naim García"
+  },
+  "Q108101356": {
+    "club": "Club Deportivo Leganés",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_2",
+    "name": "Oscar Ureña"
+  },
   "Q108109921": {
     "club": "",
     "first_seen": "2026-07-05T20:00:26.197276+00:00",
@@ -1835,6 +2015,12 @@
     "league": "Pool nazionalità",
     "name": "Taiga Sugimoto"
   },
+  "Q108110645": {
+    "club": "AS Saint-Étienne",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "france_2",
+    "name": "Bryan Nokoue"
+  },
   "Q108113029": {
     "club": "",
     "first_seen": "2026-07-05T10:22:50.272631+00:00",
@@ -1846,6 +2032,12 @@
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
     "league": "Pool nazionalità",
     "name": "Samuel Soares"
+  },
+  "Q108128947": {
+    "club": "Venlose Voetbal Vereniging Venlo",
+    "first_seen": "2026-08-11T17:27:15.317407+00:00",
+    "league": "netherlands_2",
+    "name": "Levi Smans"
   },
   "Q108132147": {
     "club": "Bollklubben Häcken",
@@ -1876,6 +2068,12 @@
     "first_seen": "2026-07-05T20:00:26.197276+00:00",
     "league": "Pool nazionalità",
     "name": "Hibiki Goto"
+  },
+  "Q108219327": {
+    "club": "Venlose Voetbal Vereniging Venlo",
+    "first_seen": "2026-08-11T17:27:15.317407+00:00",
+    "league": "netherlands_2",
+    "name": "Thijme Verheijen"
   },
   "Q108219743": {
     "club": "",
@@ -1937,6 +2135,12 @@
     "league": "Pool nazionalità",
     "name": "Karim Konaté"
   },
+  "Q108403131": {
+    "club": "Venlose Voetbal Vereniging Venlo",
+    "first_seen": "2026-08-11T17:27:15.317407+00:00",
+    "league": "netherlands_2",
+    "name": "Joep Munsters"
+  },
   "Q108413766": {
     "club": "",
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
@@ -1984,6 +2188,18 @@
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
     "league": "Pool nazionalità",
     "name": "Senza nome (Q108496743)"
+  },
+  "Q108497893": {
+    "club": "En avant Guingamp",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "france_2",
+    "name": "Théo Le Bris"
+  },
+  "Q108514645": {
+    "club": "Stade Malherbe Caen",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "france_3",
+    "name": "Norman Bassette"
   },
   "Q108518721": {
     "club": "Philips Sport Vereniging",
@@ -2045,6 +2261,12 @@
     "league": "Pool nazionalità",
     "name": "Thierno Ballo"
   },
+  "Q108703751": {
+    "club": "Venlose Voetbal Vereniging Venlo",
+    "first_seen": "2026-08-11T17:27:15.317407+00:00",
+    "league": "netherlands_2",
+    "name": "Ertan Hajdaraj"
+  },
   "Q108736650": {
     "club": "",
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
@@ -2081,6 +2303,12 @@
     "league": "Pool nazionalità",
     "name": "Drew Kerr"
   },
+  "Q108784648": {
+    "club": "Football Club de Metz",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "france_2",
+    "name": "Amadou Salif Mbengue"
+  },
   "Q108790272": {
     "club": "",
     "first_seen": "2026-07-05T20:00:26.197276+00:00",
@@ -2092,6 +2320,12 @@
     "first_seen": "2026-07-05T20:00:26.197276+00:00",
     "league": "Serie C",
     "name": "Livano Comenencia"
+  },
+  "Q108801719": {
+    "club": "Palermo FC",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "serie_b",
+    "name": "Patryk Peda"
   },
   "Q108809290": {
     "club": "",
@@ -2140,6 +2374,12 @@
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
     "league": "Pool nazionalità",
     "name": "Habib Diarra"
+  },
+  "Q108949622": {
+    "club": "Córdoba Club de Fútbol",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_2",
+    "name": "Jude Soonsup-Bell"
   },
   "Q109012725": {
     "club": "FC Barcelona Juvenil B",
@@ -2255,6 +2495,12 @@
     "league": "Pool nazionalità",
     "name": "Aria Yousefi"
   },
+  "Q109557056": {
+    "club": "Club Deportivo Mirandés",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_2",
+    "name": "Peru Rodríguez"
+  },
   "Q109567478": {
     "club": "Bakersfield Roadrunners men's soccer",
     "first_seen": "2026-07-05T10:22:50.272631+00:00",
@@ -2345,6 +2591,12 @@
     "league": "Pool nazionalità",
     "name": "Jordan Bos"
   },
+  "Q109796874": {
+    "club": "Football Bourg-en-Bresse Péronnas 01",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "france_3",
+    "name": "Sofyan Cola"
+  },
   "Q109827172": {
     "club": "",
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
@@ -2423,6 +2675,12 @@
     "league": "Pool nazionalità",
     "name": "Lachlan Sepping"
   },
+  "Q110022328": {
+    "club": "Football Club Dordrecht",
+    "first_seen": "2026-08-11T17:27:15.317407+00:00",
+    "league": "netherlands_2",
+    "name": "Rocco Shein"
+  },
   "Q110056089": {
     "club": "",
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
@@ -2464,6 +2722,12 @@
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
     "league": "Pool nazionalità",
     "name": "Kim Jun-ho"
+  },
+  "Q110126837": {
+    "club": "Real Zaragoza",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_3",
+    "name": "Ángel López"
   },
   "Q110227705": {
     "club": "",
@@ -2597,6 +2861,12 @@
     "league": "Pool nazionalità",
     "name": "Senza nome (Q110372319)"
   },
+  "Q110385369": {
+    "club": "Stade Lavallois Mayenne Football Club",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "france_2",
+    "name": "Junior Kadile"
+  },
   "Q110386091": {
     "club": "",
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
@@ -2608,6 +2878,12 @@
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
     "league": "Pool nazionalità",
     "name": "Ouattara Moudjatovic"
+  },
+  "Q110395360": {
+    "club": "Bilbao Athletic",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_3",
+    "name": "Johaneko Louis-Jean"
   },
   "Q110403154": {
     "club": "",
@@ -2669,6 +2945,12 @@
     "league": "Pool nazionalità",
     "name": "Oumar Diakité"
   },
+  "Q110568167": {
+    "club": "FC Viktoria Köln",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "germany_3",
+    "name": "Benjamin Hemcke"
+  },
   "Q110572823": {
     "club": "",
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
@@ -2692,6 +2974,12 @@
     "first_seen": "2026-07-05T10:22:50.272631+00:00",
     "league": "Pool nazionalità",
     "name": "Maximilian Dietz"
+  },
+  "Q110607238": {
+    "club": "H. Verona",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "serie_b",
+    "name": "Diego Coppola"
   },
   "Q110615336": {
     "club": "Central Coast Mariners Football Club",
@@ -2717,6 +3005,12 @@
     "league": "Pool nazionalità",
     "name": "Anrie Chase"
   },
+  "Q110637019": {
+    "club": "Maastrichtse Voetbal Vereniging",
+    "first_seen": "2026-08-11T17:27:15.317407+00:00",
+    "league": "netherlands_2",
+    "name": "Keone Maho"
+  },
   "Q110650201": {
     "club": "",
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
@@ -2735,6 +3029,12 @@
     "league": "Pool nazionalità",
     "name": "Guédé Nadje"
   },
+  "Q110714297": {
+    "club": "Watford Football Club",
+    "first_seen": "2026-08-11T14:18:15.091063+00:00",
+    "league": "Pool nazionalità",
+    "name": "James Abankwah"
+  },
   "Q110720287": {
     "club": "",
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
@@ -2746,6 +3046,12 @@
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
     "league": "Pool nazionalità",
     "name": "Tiago Ribeiro"
+  },
+  "Q110728403": {
+    "club": "Maastrichtse Voetbal Vereniging",
+    "first_seen": "2026-08-11T17:27:15.317407+00:00",
+    "league": "netherlands_2",
+    "name": "Bob Nijsten"
   },
   "Q110739564": {
     "club": "SC Freiburg II",
@@ -2771,11 +3077,23 @@
     "league": "Pool nazionalità",
     "name": "Yosuke Furukawa"
   },
+  "Q110780406": {
+    "club": "Stade Lavallois Mayenne Football Club",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "france_2",
+    "name": "Irvyn Lomami"
+  },
   "Q110790951": {
     "club": "",
     "first_seen": "2026-07-05T20:00:26.197276+00:00",
     "league": "Pool nazionalità",
     "name": "Shiō Fukuda"
+  },
+  "Q110831293": {
+    "club": "NAC Breda",
+    "first_seen": "2026-08-11T17:27:15.317407+00:00",
+    "league": "netherlands_2",
+    "name": "Ezechiel Banzuzi"
   },
   "Q110880450": {
     "club": "",
@@ -2938,6 +3256,12 @@
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
     "league": "Pool nazionalità",
     "name": "Camil Mmaee"
+  },
+  "Q111097366": {
+    "club": "Real Club Deportivo Mallorca",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_2",
+    "name": "Pablo Torre"
   },
   "Q111097878": {
     "club": "",
@@ -3227,6 +3551,12 @@
     "league": "Pool nazionalità",
     "name": "Isaac Espinal"
   },
+  "Q111311250": {
+    "club": "FC Südtirol",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "serie_b",
+    "name": "Moustapha Cissé"
+  },
   "Q111321052": {
     "club": "",
     "first_seen": "2026-07-05T10:22:50.272631+00:00",
@@ -3281,6 +3611,12 @@
     "league": "Pool nazionalità",
     "name": "Junior Olaitan"
   },
+  "Q111506564": {
+    "club": "FC Viktoria Köln",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "germany_3",
+    "name": "David Kubatta"
+  },
   "Q111516006": {
     "club": "",
     "first_seen": "2026-07-05T10:22:50.272631+00:00",
@@ -3311,6 +3647,12 @@
     "league": "Pool nazionalità",
     "name": "Ernest Nuamah"
   },
+  "Q111597291": {
+    "club": "Hallescher Fußball-Club",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "germany_3",
+    "name": "Julian Eitschberger"
+  },
   "Q111604014": {
     "club": "Villarreal Club de Fútbol",
     "first_seen": "2026-07-05T10:22:50.272631+00:00",
@@ -3328,6 +3670,12 @@
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
     "league": "Pool nazionalità",
     "name": "Brahim Ghalidi"
+  },
+  "Q111633209": {
+    "club": "Helmond Sport",
+    "first_seen": "2026-08-11T17:27:15.317407+00:00",
+    "league": "netherlands_2",
+    "name": "Lion Semić"
   },
   "Q111635415": {
     "club": "",
@@ -3370,6 +3718,12 @@
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
     "league": "Pool nazionalità",
     "name": "Diogo Prioste"
+  },
+  "Q111734187": {
+    "club": "",
+    "first_seen": "2026-08-11T14:18:15.091063+00:00",
+    "league": "Pool nazionalità",
+    "name": "Diogo Nascimento"
   },
   "Q111740063": {
     "club": "",
@@ -3497,6 +3851,12 @@
     "league": "Pool nazionalità",
     "name": "Mohammad Amin Hazbavi"
   },
+  "Q112078374": {
+    "club": "Football Club Sochaux-Montbéliard",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "france_2",
+    "name": "Rayanne Fabre"
+  },
   "Q112079039": {
     "club": "IFK Norrköping FK",
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
@@ -3551,6 +3911,12 @@
     "league": "Pool nazionalità",
     "name": "Senza nome (Q112135921)"
   },
+  "Q112147464": {
+    "club": "1. Fußball-Club Magdeburg",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "germany_2",
+    "name": "Noah Kruth"
+  },
   "Q112157070": {
     "club": "",
     "first_seen": "2026-07-05T20:00:26.197276+00:00",
@@ -3586,6 +3952,12 @@
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
     "league": "Pool nazionalità",
     "name": "Yousef Fawaz"
+  },
+  "Q112192997": {
+    "club": "Almere City Football Club",
+    "first_seen": "2026-08-11T17:27:15.317407+00:00",
+    "league": "netherlands_2",
+    "name": "Jason van Duiven"
   },
   "Q112194851": {
     "club": "",
@@ -3671,11 +4043,23 @@
     "league": "Pool nazionalità",
     "name": "Shinnosuke Ito"
   },
+  "Q112251236": {
+    "club": "FC Viktoria Köln",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "germany_3",
+    "name": "Luca de Meester"
+  },
   "Q112277165": {
     "club": "",
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
     "league": "Pool nazionalità",
     "name": "Amane Romeo"
+  },
+  "Q112304308": {
+    "club": "Real Oviedo",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_2",
+    "name": "Rahim Alhassane"
   },
   "Q112321889": {
     "club": "",
@@ -3695,6 +4079,12 @@
     "league": "Pool nazionalità",
     "name": "Harumi Minamino"
   },
+  "Q112359244": {
+    "club": "",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_2",
+    "name": "Oier López"
+  },
   "Q112587252": {
     "club": "",
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
@@ -3707,11 +4097,23 @@
     "league": "Pool nazionalità",
     "name": "Yazid Joshan"
   },
+  "Q112624634": {
+    "club": "FC Südtirol",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "serie_b",
+    "name": "Rareș Burnete"
+  },
   "Q112625219": {
     "club": "Fotbal Club Corvinul Hunedoara",
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
     "league": "Pool nazionalità",
     "name": "Emmanuel Yeboah"
+  },
+  "Q112657910": {
+    "club": "Unión Deportiva Logroñés",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_3",
+    "name": "Noé Ela"
   },
   "Q112687080": {
     "club": "",
@@ -3779,6 +4181,12 @@
     "league": "Pool nazionalità",
     "name": "efran sakanlou"
   },
+  "Q113004687": {
+    "club": "SV Werder Bremen II",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "germany_3",
+    "name": "Ronan Kratt"
+  },
   "Q113009547": {
     "club": "",
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
@@ -3803,11 +4211,23 @@
     "league": "Pool nazionalità",
     "name": "Yang Hyun-jun"
   },
+  "Q113132831": {
+    "club": "Pisa Sporting Club",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "serie_b",
+    "name": "Francesco Maestrelli"
+  },
   "Q113153628": {
     "club": "",
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
     "league": "Pool nazionalità",
     "name": "Abdoul Zanne"
+  },
+  "Q113173947": {
+    "club": "Stichting Betaald Voetbal Vitesse",
+    "first_seen": "2026-08-11T17:27:15.317407+00:00",
+    "league": "netherlands_2",
+    "name": "Ryan Flamingo"
   },
   "Q113192310": {
     "club": "",
@@ -3899,6 +4319,18 @@
     "league": "Pool nazionalità",
     "name": "Erick Ruiz"
   },
+  "Q113429986": {
+    "club": "Real Sporting de Gijón",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_2",
+    "name": "Justin Smith"
+  },
+  "Q113443291": {
+    "club": "FC Villefranche",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "france_3",
+    "name": "Eli Wissa"
+  },
   "Q113451648": {
     "club": "",
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
@@ -3928,6 +4360,12 @@
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
     "league": "Pool nazionalità",
     "name": "Senza nome (Q113460292)"
+  },
+  "Q113462255": {
+    "club": "Venlose Voetbal Vereniging Venlo",
+    "first_seen": "2026-08-11T17:27:15.317407+00:00",
+    "league": "netherlands_2",
+    "name": "Jens Jacobs"
   },
   "Q113463914": {
     "club": "Football Club Groningen",
@@ -4061,6 +4499,12 @@
     "league": "Pool nazionalità",
     "name": "João Neves"
   },
+  "Q113552864": {
+    "club": "Football Bourg-en-Bresse Péronnas 01",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "france_3",
+    "name": "Jordan Morel"
+  },
   "Q113557499": {
     "club": "Real Madrid Castilla",
     "first_seen": "2026-07-05T10:22:50.272631+00:00",
@@ -4072,6 +4516,12 @@
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
     "league": "Pool nazionalità",
     "name": "Abdoulaye Ndiaye"
+  },
+  "Q113561047": {
+    "club": "Sportverein Wacker Burghausen",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "germany_3",
+    "name": "Harry Birtwistle"
   },
   "Q113566377": {
     "club": "",
@@ -4102,6 +4552,12 @@
     "first_seen": "2026-07-05T20:00:26.197276+00:00",
     "league": "Serie C",
     "name": "Jacopo de Matteis"
+  },
+  "Q113572629": {
+    "club": "US Cremonese",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "serie_b",
+    "name": "Andreas Jungdal"
   },
   "Q113574233": {
     "club": "Real Club Celta de Vigo",
@@ -4319,6 +4775,12 @@
     "league": "Pool nazionalità",
     "name": "Sebastián Martínez"
   },
+  "Q114222057": {
+    "club": "Córdoba Club de Fútbol",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_2",
+    "name": "Ibai Sanz"
+  },
   "Q114228537": {
     "club": "",
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
@@ -4336,6 +4798,12 @@
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
     "league": "Pool nazionalità",
     "name": "Santiago Trigos"
+  },
+  "Q114270351": {
+    "club": "Betaald Voetbal De Graafschap",
+    "first_seen": "2026-08-11T17:27:15.317407+00:00",
+    "league": "netherlands_2",
+    "name": "Jardell Kanga"
   },
   "Q114271394": {
     "club": "Athletic Club",
@@ -4439,6 +4907,12 @@
     "league": "Pool nazionalità",
     "name": "Rodrigo Parra"
   },
+  "Q114627806": {
+    "club": "Club Deportivo Mirandés",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_2",
+    "name": "Unai Egiluz"
+  },
   "Q114630417": {
     "club": "",
     "first_seen": "2026-07-05T20:00:26.197276+00:00",
@@ -4456,6 +4930,12 @@
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
     "league": "Pool nazionalità",
     "name": "João Veloso"
+  },
+  "Q114645552": {
+    "club": "Sociedad Deportiva Huesca",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_2",
+    "name": "Hugo Pérez"
   },
   "Q114657978": {
     "club": "",
@@ -4709,11 +5189,23 @@
     "league": "Pool nazionalità",
     "name": "Check Keita"
   },
+  "Q114980925": {
+    "club": "Club Deportivo Tenerife",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_3",
+    "name": "Alassan Gutiérrez"
+  },
   "Q114986366": {
     "club": "Eintracht Frankfurt",
     "first_seen": "2026-07-06T06:59:23.094571+00:00",
     "league": "Pool nazionalità",
     "name": "Derek Boakye Osei"
+  },
+  "Q114991881": {
+    "club": "Real Sporting de Gijón",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_2",
+    "name": "Egoitz Arana"
   },
   "Q115020817": {
     "club": "",
@@ -4757,11 +5249,23 @@
     "league": "Pool nazionalità",
     "name": "Jake Girdwood-Reich"
   },
+  "Q115172996": {
+    "club": "Betaald Voetbal De Graafschap",
+    "first_seen": "2026-08-11T17:27:15.317407+00:00",
+    "league": "netherlands_2",
+    "name": "Anis Yadir"
+  },
   "Q115210642": {
     "club": "",
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
     "league": "Pool nazionalità",
     "name": "Edu Borges"
+  },
+  "Q115331110": {
+    "club": "Sociedad Deportiva Ponferradina",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_2",
+    "name": "Quicala Bari"
   },
   "Q115475016": {
     "club": "",
@@ -5015,6 +5519,18 @@
     "league": "Pool nazionalità",
     "name": "Brian Flores"
   },
+  "Q115676564": {
+    "club": "Unión Deportiva Ibiza",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_3",
+    "name": "Iker Varela"
+  },
+  "Q115677211": {
+    "club": "Bilbao Athletic",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_3",
+    "name": "Miguel Barandalla"
+  },
   "Q115721632": {
     "club": "Football Club Pohang Steelers",
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
@@ -5111,6 +5627,18 @@
     "league": "Pool nazionalità",
     "name": "Mehdi Boukamir"
   },
+  "Q115923122": {
+    "club": "Unió Esportiva Sant Andreu",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_3",
+    "name": "Félix Garreta"
+  },
+  "Q115925662": {
+    "club": "Stade Lavallois Mayenne Football Club",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "france_2",
+    "name": "Rémy Labeau Lascary"
+  },
   "Q115925763": {
     "club": "",
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
@@ -5176,6 +5704,12 @@
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
     "league": "Pool nazionalità",
     "name": "Nathan Zézé"
+  },
+  "Q116174981": {
+    "club": "Heracles Almelo",
+    "first_seen": "2026-08-11T17:27:15.317407+00:00",
+    "league": "netherlands_2",
+    "name": "Antonio Satriano"
   },
   "Q116177959": {
     "club": "",
@@ -5255,6 +5789,12 @@
     "league": "Pool nazionalità",
     "name": "Mohammad Amrollahi"
   },
+  "Q116394337": {
+    "club": "Bilbao Athletic",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_3",
+    "name": "Christian Mutilva"
+  },
   "Q116457124": {
     "club": "",
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
@@ -5291,6 +5831,12 @@
     "league": "Pool nazionalità",
     "name": "Vivaldo Semedo"
   },
+  "Q116600260": {
+    "club": "Sociedad Deportiva Logroñés",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_3",
+    "name": "Daniel Sancho"
+  },
   "Q116605365": {
     "club": "RC de Strasbourg Alsace",
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
@@ -5320,6 +5866,24 @@
     "first_seen": "2026-07-05T20:00:26.197276+00:00",
     "league": "Serie C",
     "name": "Coli Saco"
+  },
+  "Q116671829": {
+    "club": "Agrupación Deportiva Alcorcón",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_3",
+    "name": "Xabier Irurita"
+  },
+  "Q116671861": {
+    "club": "Burgos Club de Fútbol",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_2",
+    "name": "Alberto Dadie Izagirre"
+  },
+  "Q116671894": {
+    "club": "Real Sociedad de Fútbol B",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_2",
+    "name": "Jon Balda"
   },
   "Q116676832": {
     "club": "Fotbal Club Politehnica Iași",
@@ -5369,6 +5933,12 @@
     "league": "Pool nazionalità",
     "name": "Aïman Maurer"
   },
+  "Q116767651": {
+    "club": "Real Avilés Club de Fútbol",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_3",
+    "name": "Iker Alday"
+  },
   "Q116783535": {
     "club": "",
     "first_seen": "2026-07-05T20:00:26.197276+00:00",
@@ -5398,6 +5968,12 @@
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
     "league": "Pool nazionalità",
     "name": "Aye Diop"
+  },
+  "Q116872826": {
+    "club": "Sociedad Deportiva Eibar",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_2",
+    "name": "Aleix Garrido"
   },
   "Q116883859": {
     "club": "Iwaki FC",
@@ -5626,6 +6202,12 @@
     "first_seen": "2026-07-05T09:40:02.363773+00:00",
     "league": "Pool nazionalità",
     "name": "Kaïlé Auvray"
+  },
+  "Q117075989": {
+    "club": "Futbol Club Andorra",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_2",
+    "name": "Álex Calvo"
   },
   "Q117084665": {
     "club": "",
@@ -5999,6 +6581,12 @@
     "league": "Pool nazionalità",
     "name": "Malick Mbaye"
   },
+  "Q118242360": {
+    "club": "Real Oviedo",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_2",
+    "name": "Yayo"
+  },
   "Q118289610": {
     "club": "",
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
@@ -6022,6 +6610,12 @@
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
     "league": "Pool nazionalità",
     "name": "Ben Hamed Touré"
+  },
+  "Q118372022": {
+    "club": "Stade Lavallois Mayenne Football Club",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "france_2",
+    "name": "Noa Mupemba"
   },
   "Q118399776": {
     "club": "",
@@ -6095,11 +6689,23 @@
     "league": "Pool nazionalità",
     "name": "Hamza Koutoune"
   },
+  "Q118611329": {
+    "club": "Hertha Berliner Sport-Club",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "germany_2",
+    "name": "Bence Dárdai"
+  },
   "Q118611620": {
     "club": "Havre Athletic Club",
     "first_seen": "2026-07-06T06:59:23.094571+00:00",
     "league": "Pool nazionalità",
     "name": "Mohamed Hamony"
+  },
+  "Q118646255": {
+    "club": "Fußball-Club 2004 Ingolstadt",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "germany_3",
+    "name": "Enrique Bösl"
   },
   "Q118696035": {
     "club": "Havre Athletic Club",
@@ -6209,6 +6815,12 @@
     "league": "Pool nazionalità",
     "name": "Toya Myogan"
   },
+  "Q118724991": {
+    "club": "Bilbao Athletic",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_3",
+    "name": "Elijah Gift"
+  },
   "Q118726326": {
     "club": "Júbilo Iwata",
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
@@ -6250,6 +6862,12 @@
     "first_seen": "2026-07-02T12:43:34.932680+00:00",
     "league": "Pool nazionalità",
     "name": "Favian Loyola"
+  },
+  "Q118918006": {
+    "club": "Hertha Berliner Sport-Club",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "germany_2",
+    "name": "Tjark Ernst"
   },
   "Q118926351": {
     "club": "",
@@ -7487,6 +8105,12 @@
     "league": "Pool nazionalità",
     "name": "Ayman Ennair"
   },
+  "Q119591333": {
+    "club": "Real Sociedad de Fútbol B",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_2",
+    "name": "Jon Gorrotxategi"
+  },
   "Q119625184": {
     "club": "",
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
@@ -7510,6 +8134,12 @@
     "first_seen": "2026-07-06T06:59:23.094571+00:00",
     "league": "Pool nazionalità",
     "name": "Anthony Pavlešić"
+  },
+  "Q119792755": {
+    "club": "Club Deportivo Castellón",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_2",
+    "name": "Santi Borikó"
   },
   "Q119793526": {
     "club": "Club Sportivo Scandicci 1908",
@@ -7565,11 +8195,23 @@
     "league": "Pool nazionalità",
     "name": "Hamza Igamane"
   },
+  "Q120059456": {
+    "club": "Heracles Almelo",
+    "first_seen": "2026-08-11T17:27:15.317407+00:00",
+    "league": "netherlands_2",
+    "name": "Lasse Wehmeyer"
+  },
   "Q120148738": {
     "club": "",
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
     "league": "Pool nazionalità",
     "name": "Khadim Kane"
+  },
+  "Q120189203": {
+    "club": "Football Club de Metz",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "france_2",
+    "name": "Lilian Raillot"
   },
   "Q120243936": {
     "club": "",
@@ -7799,6 +8441,12 @@
     "league": "Pool nazionalità",
     "name": "Mamadou Traoré"
   },
+  "Q120697345": {
+    "club": "",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_2",
+    "name": "Jon Garcia Fuentes"
+  },
   "Q120714287": {
     "club": "",
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
@@ -7853,6 +8501,12 @@
     "league": "Pool nazionalità",
     "name": "Erfan Ghorbani"
   },
+  "Q120837303": {
+    "club": "1. Fußball-Club Nürnberg Verein für Leibesübungen",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "germany_2",
+    "name": "Frans Krätzig"
+  },
   "Q120868365": {
     "club": "",
     "first_seen": "2026-07-06T06:59:23.094571+00:00",
@@ -7882,6 +8536,18 @@
     "first_seen": "2026-07-05T20:00:26.197276+00:00",
     "league": "Pool nazionalità",
     "name": "Ken Tshizanga Matsumoto"
+  },
+  "Q121294697": {
+    "club": "Sestao River Club",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_3",
+    "name": "Carlos González Pascual"
+  },
+  "Q121294885": {
+    "club": "Racing Club de Ferrol",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_2",
+    "name": "Endika Buján"
   },
   "Q121302110": {
     "club": "",
@@ -7919,6 +8585,30 @@
     "league": "Pool nazionalità",
     "name": "Ange Ahoussou"
   },
+  "Q121363993": {
+    "club": "Club de Fútbol Intercity",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_3",
+    "name": "Víctor Rofino"
+  },
+  "Q121364104": {
+    "club": "Real Sporting de Gijón",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_2",
+    "name": "Aimar Duñabeitia"
+  },
+  "Q121364134": {
+    "club": "Bilbao Athletic",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_3",
+    "name": "Aingeru Olabarrieta"
+  },
+  "Q121364173": {
+    "club": "Unión Deportiva Logroñés",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_3",
+    "name": "Ibai Asenjo"
+  },
   "Q121423143": {
     "club": "",
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
@@ -7931,6 +8621,12 @@
     "league": "Pool nazionalità",
     "name": "Omar Khedr"
   },
+  "Q121438769": {
+    "club": "Club Deportivo Mirandés",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_2",
+    "name": "Diego Rosales"
+  },
   "Q121483985": {
     "club": "Yale Bulldogs men's soccer",
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
@@ -7942,6 +8638,24 @@
     "first_seen": "2026-07-05T20:00:26.197276+00:00",
     "league": "Pool nazionalità",
     "name": "Omar Fayed"
+  },
+  "Q121603159": {
+    "club": "Verein für Leibesübungen von 1899",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "germany_2",
+    "name": "Leon Opitz"
+  },
+  "Q121617321": {
+    "club": "Leixões Sport Club",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "portugal_2",
+    "name": "Dodo Dokou"
+  },
+  "Q121724288": {
+    "club": "Stade Lavallois Mayenne Football Club",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "france_2",
+    "name": "William Benard"
   },
   "Q121788855": {
     "club": "Stade Lavallois B",
@@ -8123,6 +8837,12 @@
     "league": "Pool nazionalità",
     "name": "Luka Jovanovic"
   },
+  "Q122674510": {
+    "club": "Hertha Berliner Sport-Club",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "germany_2",
+    "name": "Robert Kwasigroch"
+  },
   "Q122712485": {
     "club": "",
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
@@ -8182,6 +8902,12 @@
     "first_seen": "2026-07-06T06:59:23.094571+00:00",
     "league": "Pool nazionalità",
     "name": "Idrissa Gueye"
+  },
+  "Q122917864": {
+    "club": "Heracles Almelo",
+    "first_seen": "2026-08-11T17:27:15.317407+00:00",
+    "league": "netherlands_2",
+    "name": "Stijn Bultman"
   },
   "Q122920412": {
     "club": "",
@@ -8260,6 +8986,12 @@
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
     "league": "Pool nazionalità",
     "name": "Grant Williams"
+  },
+  "Q123007106": {
+    "club": "Real Sociedad de Fútbol B",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_2",
+    "name": "Unax Agote"
   },
   "Q123008463": {
     "club": "Club de Fútbol Pachuca",
@@ -8345,6 +9077,12 @@
     "league": "Pool nazionalità",
     "name": "Choi Seok-hyeon"
   },
+  "Q123169680": {
+    "club": "UC Sampdoria",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "serie_b",
+    "name": "Hugo Buyla"
+  },
   "Q123172855": {
     "club": "",
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
@@ -8393,17 +9131,41 @@
     "league": "Pool nazionalità",
     "name": "Daniel Bennie"
   },
+  "Q123245856": {
+    "club": "Betaald Voetbal De Graafschap",
+    "first_seen": "2026-08-11T17:27:15.317407+00:00",
+    "league": "netherlands_2",
+    "name": "Ties Wieggers"
+  },
   "Q123274546": {
     "club": "",
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
     "league": "Pool nazionalità",
     "name": "João Rego"
   },
+  "Q123275267": {
+    "club": "Stade Lavallois Mayenne Football Club",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "france_2",
+    "name": "Mattéo Commaret"
+  },
   "Q123275274": {
     "club": "Football Bourg-en-Bresse Péronnas 01",
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
     "league": "Pool nazionalità",
     "name": "Brown Irabor"
+  },
+  "Q123275276": {
+    "club": "Football Bourg-en-Bresse Péronnas 01",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "france_3",
+    "name": "Arthur Mazuy"
+  },
+  "Q123312727": {
+    "club": "",
+    "first_seen": "2026-08-11T14:18:15.091063+00:00",
+    "league": "Pool nazionalità",
+    "name": "Maguette Gueye"
   },
   "Q123319384": {
     "club": "",
@@ -8591,11 +9353,23 @@
     "league": "Pool nazionalità",
     "name": "Luis Ortiz"
   },
+  "Q123458646": {
+    "club": "Sociedad Deportiva Amorebieta",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_3",
+    "name": "Javier Elías"
+  },
   "Q123458810": {
     "club": "",
     "first_seen": "2026-07-06T06:59:23.094571+00:00",
     "league": "Pool nazionalità",
     "name": "Adam Watson"
+  },
+  "Q123463830": {
+    "club": "Bilbao Athletic",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_3",
+    "name": "Igor Oyono"
   },
   "Q123463980": {
     "club": "",
@@ -8638,6 +9412,12 @@
     "first_seen": "2026-07-06T06:59:23.094571+00:00",
     "league": "Pool nazionalità",
     "name": "Ayoub Chaikhoun"
+  },
+  "Q123467183": {
+    "club": "Córdoba Club de Fútbol",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_2",
+    "name": "Egoitz Muñoz"
   },
   "Q123469630": {
     "club": "Football Club Tokyo",
@@ -8879,11 +9659,23 @@
     "league": "Pool nazionalità",
     "name": "Daichi Suzuki"
   },
+  "Q123699497": {
+    "club": "Pau Football Club",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "france_2",
+    "name": "Omar Sadik"
+  },
   "Q123701208": {
     "club": "",
     "first_seen": "2026-07-06T06:59:23.094571+00:00",
     "league": "Pool nazionalità",
     "name": "Buba Sangaré"
+  },
+  "Q123738735": {
+    "club": "Bilbao Athletic",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_3",
+    "name": "Asier Hierro"
   },
   "Q123738836": {
     "club": "",
@@ -8891,11 +9683,29 @@
     "league": "Pool nazionalità",
     "name": "Franco Osuru Lino"
   },
+  "Q123752530": {
+    "club": "Football Bourg-en-Bresse Péronnas 01",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "france_3",
+    "name": "Beimarse Tankiev"
+  },
+  "Q123754569": {
+    "club": "Real Sociedad de Fútbol B",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_2",
+    "name": "Aitor Fraga"
+  },
   "Q123939583": {
     "club": "",
     "first_seen": "2026-07-06T06:59:23.094571+00:00",
     "league": "Pool nazionalità",
     "name": "Abdul Aziz Issah"
+  },
+  "Q123943306": {
+    "club": "Club Deportivo Mirandés",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_2",
+    "name": "Miguel Auria"
   },
   "Q123980670": {
     "club": "",
@@ -8920,6 +9730,12 @@
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
     "league": "Pool nazionalità",
     "name": "Ali Ahmadi"
+  },
+  "Q124038753": {
+    "club": "Fútbol Club Cartagena",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_2",
+    "name": "Jhafets Christ"
   },
   "Q124039187": {
     "club": "",
@@ -9029,11 +9845,35 @@
     "league": "Pool nazionalità",
     "name": "Aboubacar Bassinga"
   },
+  "Q124209495": {
+    "club": "Unión Deportiva Las Palmas",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_2",
+    "name": "Juanma Herzog"
+  },
   "Q124211501": {
     "club": "",
     "first_seen": "2026-07-06T06:59:23.094571+00:00",
     "league": "Pool nazionalità",
     "name": "José Arroyo"
+  },
+  "Q124215668": {
+    "club": "Real Murcia Club de Fútbol",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_3",
+    "name": "Ian Forns"
+  },
+  "Q124215672": {
+    "club": "União Desportiva de Leiria",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "portugal_2",
+    "name": "Leo Mascaró"
+  },
+  "Q124218201": {
+    "club": "Real Sociedad de Fútbol B",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_2",
+    "name": "Luken Beitia Aguirregomezcorta"
   },
   "Q124259304": {
     "club": "Cádiz CF B",
@@ -9071,6 +9911,12 @@
     "league": "Pool nazionalità",
     "name": "Ali Loune"
   },
+  "Q124329594": {
+    "club": "Schwimm- und Sportverein Ulm 1846 Fußball",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "germany_3",
+    "name": "Niklas Castelle"
+  },
   "Q124329732": {
     "club": "",
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
@@ -9082,6 +9928,12 @@
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
     "league": "Pool nazionalità",
     "name": "Salim Fago Lawal"
+  },
+  "Q124332291": {
+    "club": "Sociedad Deportiva Eibar",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_2",
+    "name": "Ander Madariaga"
   },
   "Q124332690": {
     "club": "",
@@ -9371,6 +10223,12 @@
     "league": "Pool nazionalità",
     "name": "Mohamed Atef"
   },
+  "Q124652507": {
+    "club": "Betaald Voetbal De Graafschap",
+    "first_seen": "2026-08-11T17:27:15.317407+00:00",
+    "league": "netherlands_2",
+    "name": "Blnd Hassan"
+  },
   "Q124653125": {
     "club": "Consadole Sapporo",
     "first_seen": "2026-07-05T20:00:26.197276+00:00",
@@ -9400,6 +10258,12 @@
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
     "league": "Pool nazionalità",
     "name": "Jean Eric Moursou"
+  },
+  "Q124726794": {
+    "club": "Bilbao Athletic",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_3",
+    "name": "Javier Sola Asenjo"
   },
   "Q124731367": {
     "club": "",
@@ -9442,6 +10306,12 @@
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
     "league": "Pool nazionalità",
     "name": "Leonard Gweth"
+  },
+  "Q124745247": {
+    "club": "Dijon Football Côte-d'Or",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "france_2",
+    "name": "Robin Risser"
   },
   "Q124757622": {
     "club": "",
@@ -9557,6 +10427,12 @@
     "league": "Pool nazionalità",
     "name": "Kaisei Kano"
   },
+  "Q124954284": {
+    "club": "Futebol Clube do Porto B",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "portugal_2",
+    "name": "Trafim Mel'ničėnka"
+  },
   "Q124961762": {
     "club": "",
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
@@ -9629,6 +10505,12 @@
     "league": "Pool nazionalità",
     "name": "Shunsuke Saito"
   },
+  "Q125026523": {
+    "club": "Sestao River Club",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_3",
+    "name": "Ieltxu Garcia"
+  },
   "Q125040605": {
     "club": "Tokyo Verdy",
     "first_seen": "2026-07-05T19:37:12.319497+00:00",
@@ -9647,6 +10529,12 @@
     "league": "Pool nazionalità",
     "name": "Keita Kosugi"
   },
+  "Q125097884": {
+    "club": "Real Sociedad de Fútbol B",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_2",
+    "name": "Lander Olasagasti"
+  },
   "Q125120293": {
     "club": "Nara Club",
     "first_seen": "2026-07-05T19:37:12.319497+00:00",
@@ -9664,6 +10552,12 @@
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
     "league": "Pool nazionalità",
     "name": "Park Se-gi"
+  },
+  "Q125125381": {
+    "club": "Unión Deportiva Almería",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_2",
+    "name": "Marcos Peña Ocaña"
   },
   "Q125131571": {
     "club": "",
@@ -9809,6 +10703,12 @@
     "league": "Pool nazionalità",
     "name": "Taisei Inoue"
   },
+  "Q125464055": {
+    "club": "Dijon Football Côte-d'Or",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "france_2",
+    "name": "Rayane Messi Tanfouri"
+  },
   "Q125470774": {
     "club": "Sagan Tosu",
     "first_seen": "2026-07-05T14:24:54.643779+00:00",
@@ -9826,6 +10726,12 @@
     "first_seen": "2026-07-05T13:45:47.484395+00:00",
     "league": "Pool nazionalità",
     "name": "Taiju Ichinose"
+  },
+  "Q125498672": {
+    "club": "Associação Académica de Coimbra - Organismo Autónomo de Futebol",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "portugal_2",
+    "name": "Adriano"
   },
   "Q125536529": {
     "club": "",
@@ -9959,11 +10865,35 @@
     "league": "Pool nazionalità",
     "name": "Farhah Al Shamrani"
   },
+  "Q125896245": {
+    "club": "",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "netherlands_3",
+    "name": "Francisco Marizán"
+  },
   "Q125907011": {
     "club": "Football Club Midtjylland",
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
     "league": "Pool nazionalità",
     "name": "Ousmane Diao"
+  },
+  "Q125930117": {
+    "club": "Real Valladolid Club de Fútbol",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_2",
+    "name": "Adrián Arnuncio Baquerín"
+  },
+  "Q125930120": {
+    "club": "Club Deportivo Mirandés",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_2",
+    "name": "Rafel Bauzà"
+  },
+  "Q125938719": {
+    "club": "Montpellier Hérault Sport Club",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "france_2",
+    "name": "Othmane Maamma"
   },
   "Q125941671": {
     "club": "Professional'nyj Futbol'nyj Klub Central'nyj Sportivnyj Klub Armii",
@@ -10054,6 +10984,12 @@
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
     "league": "Pool nazionalità",
     "name": "Ethan Cox"
+  },
+  "Q126283247": {
+    "club": "Sporting CP B",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "portugal_2",
+    "name": "Lucas Taibo"
   },
   "Q126284348": {
     "club": "Melbourne City FC",
@@ -10186,6 +11122,12 @@
     "first_seen": "2026-07-06T06:59:23.094571+00:00",
     "league": "Pool nazionalità",
     "name": "Sama Nomoko"
+  },
+  "Q126436400": {
+    "club": "USL Dunkerque",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "france_2",
+    "name": "Gessime Yassine"
   },
   "Q126453830": {
     "club": "CF Can Vidalet",
@@ -10355,6 +11297,12 @@
     "league": "Pool nazionalità",
     "name": "Eduardo García Mendoza"
   },
+  "Q126956956": {
+    "club": "1. Fußball- und Sportverein Mainz 05 II",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "germany_3",
+    "name": "Nayrobi Vargas"
+  },
   "Q126973179": {
     "club": "",
     "first_seen": "2026-07-06T06:59:23.094571+00:00",
@@ -10420,6 +11368,12 @@
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
     "league": "Pool nazionalità",
     "name": "Clement Ikenna"
+  },
+  "Q127416814": {
+    "club": "Würzburger Kickers",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "germany_3",
+    "name": "Eliot Muteba"
   },
   "Q127574290": {
     "club": "",
@@ -10493,6 +11447,12 @@
     "league": "Pool nazionalità",
     "name": "Severin Nioule"
   },
+  "Q128140004": {
+    "club": "Real Sociedad de Fútbol B",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_2",
+    "name": "Dani Díaz"
+  },
   "Q128143299": {
     "club": "",
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
@@ -10504,6 +11464,18 @@
     "first_seen": "2026-07-06T06:59:23.094571+00:00",
     "league": "Pool nazionalità",
     "name": "Frank Okyere"
+  },
+  "Q128212667": {
+    "club": "Football Club Den Bosch",
+    "first_seen": "2026-08-11T17:27:15.317407+00:00",
+    "league": "netherlands_2",
+    "name": "Yannick Keijser"
+  },
+  "Q128268559": {
+    "club": "Sociedad Deportiva Eibar",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_2",
+    "name": "Hodei Arrillaga"
   },
   "Q128332797": {
     "club": "",
@@ -10643,17 +11615,47 @@
     "league": "Pool nazionalità",
     "name": "Massiré Sylla"
   },
+  "Q129188315": {
+    "club": "Football Bourg-en-Bresse Péronnas 01",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "france_3",
+    "name": "Bastien Donio"
+  },
+  "Q129188317": {
+    "club": "Football Bourg-en-Bresse Péronnas 01",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "france_3",
+    "name": "Vladimir Karajcic"
+  },
+  "Q129188320": {
+    "club": "Football Bourg-en-Bresse Péronnas 01",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "france_3",
+    "name": "Abdoul Karim Traoré"
+  },
   "Q129188329": {
     "club": "Football Bourg-en-Bresse Péronnas 01",
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
     "league": "Pool nazionalità",
     "name": "Dylan Sia"
   },
+  "Q129222116": {
+    "club": "Club Deportivo Mirandés",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_2",
+    "name": "Asier Ortiz de Guinea"
+  },
   "Q129257324": {
     "club": "",
     "first_seen": "2026-07-06T06:59:23.094571+00:00",
     "league": "Pool nazionalità",
     "name": "Gabriel Silva"
+  },
+  "Q129257493": {
+    "club": "Cádiz Club de Fútbol",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_2",
+    "name": "Antonio Cordero"
   },
   "Q129262743": {
     "club": "",
@@ -10703,6 +11705,12 @@
     "league": "Pool nazionalità",
     "name": "Bakary Konaté"
   },
+  "Q129597011": {
+    "club": "Bilbao Athletic",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_3",
+    "name": "Mikel Santos Linares"
+  },
   "Q129638638": {
     "club": "Fotbal Club Universitatea Cluj",
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
@@ -10727,6 +11735,12 @@
     "league": "Pool nazionalità",
     "name": "César Bustos"
   },
+  "Q129777758": {
+    "club": "Football Club de Nantes",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "france_2",
+    "name": "Bahereba Guirassy"
+  },
   "Q129817067": {
     "club": "",
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
@@ -10744,6 +11758,12 @@
     "first_seen": "2026-07-06T06:59:23.094571+00:00",
     "league": "Pool nazionalità",
     "name": "Kang Ju-hyeok"
+  },
+  "Q130146305": {
+    "club": "Aachener Turn- und Sportverein Alemannia 1900",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "germany_3",
+    "name": "Joel da Silva Kiala"
   },
   "Q130198993": {
     "club": "",
@@ -10823,11 +11843,29 @@
     "league": "Pool nazionalità",
     "name": "Yassir Zabiri"
   },
+  "Q130302595": {
+    "club": "Red Star Football Club",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "france_2",
+    "name": "Josué Escartin"
+  },
   "Q130305453": {
     "club": "",
     "first_seen": "2026-07-06T06:59:23.094571+00:00",
     "league": "Pool nazionalità",
     "name": "Andrew Idoko"
+  },
+  "Q130305682": {
+    "club": "Verein für Bewegungsspiele Lübeck von 1919",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "germany_3",
+    "name": "Gavin Didzilatis"
+  },
+  "Q130305730": {
+    "club": "Verein für Bewegungsspiele Lübeck von 1919",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "germany_3",
+    "name": "Jannik Westphal"
   },
   "Q130317706": {
     "club": "",
@@ -10943,11 +11981,35 @@
     "league": "Pool nazionalità",
     "name": "Kim Jae-young"
   },
+  "Q130355602": {
+    "club": "Bilbao Athletic",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_3",
+    "name": "Senza nome (Q130355602)"
+  },
+  "Q130355668": {
+    "club": "Bilbao Athletic",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_3",
+    "name": "Ander Izagirre Zestoa"
+  },
   "Q130370916": {
     "club": "",
     "first_seen": "2026-07-05T15:25:40.510908+00:00",
     "league": "Pool nazionalità",
     "name": "Shingo Nakano"
+  },
+  "Q130385293": {
+    "club": "Fußball-Club 2004 Ingolstadt",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "germany_3",
+    "name": "Ognjen Drakulić"
+  },
+  "Q130385969": {
+    "club": "Meidericher Spielverein Duisburg",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "germany_3",
+    "name": "Jan-Simon Symalla"
   },
   "Q130394805": {
     "club": "",
@@ -11339,6 +12401,18 @@
     "league": "Pool nazionalità",
     "name": "Amin Pilali"
   },
+  "Q130526008": {
+    "club": "Tochigi Soccer Club",
+    "first_seen": "2026-08-11T17:27:15.317407+00:00",
+    "league": "Pool nazionalità",
+    "name": "Hogara Shoji"
+  },
+  "Q130527310": {
+    "club": "Thespa Gunma",
+    "first_seen": "2026-08-11T17:27:15.317407+00:00",
+    "league": "Pool nazionalità",
+    "name": "Ryusei Akimoto"
+  },
   "Q130531443": {
     "club": "Esteghlal Mollasani F.C.",
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
@@ -11711,6 +12785,12 @@
     "league": "Pool nazionalità",
     "name": "Sena Oyama"
   },
+  "Q130598753": {
+    "club": "NAC Breda",
+    "first_seen": "2026-08-11T17:27:15.317407+00:00",
+    "league": "netherlands_2",
+    "name": "Lars Mol"
+  },
   "Q130608352": {
     "club": "",
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
@@ -11770,6 +12850,18 @@
     "first_seen": "2026-07-02T05:42:55.027220+00:00",
     "league": "Pool nazionalità",
     "name": "Shinta Nishiyama"
+  },
+  "Q130740653": {
+    "club": "Sociedad Deportiva Eibar",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_2",
+    "name": "Oier Llorente"
+  },
+  "Q130751598": {
+    "club": "Club Deportivo Eldense",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_2",
+    "name": "Boston Billups"
   },
   "Q130755484": {
     "club": "Tractor Sport Club",
@@ -11861,6 +12953,12 @@
     "league": "Serie C",
     "name": "Oliver Viola"
   },
+  "Q131108438": {
+    "club": "Empoli Football Club",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "serie_b",
+    "name": "Oliver Blini"
+  },
   "Q131108723": {
     "club": "Club León Fútbol Club",
     "first_seen": "2026-07-06T06:59:23.094571+00:00",
@@ -11891,6 +12989,12 @@
     "league": "Pool nazionalità",
     "name": "Oliver Correa"
   },
+  "Q131129376": {
+    "club": "Maastrichtse Voetbal Vereniging",
+    "first_seen": "2026-08-11T17:27:15.317407+00:00",
+    "league": "netherlands_2",
+    "name": "Ilano Silva Timas"
+  },
   "Q131194303": {
     "club": "",
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
@@ -11909,6 +13013,30 @@
     "league": "Pool nazionalità",
     "name": "Reda Laalaoui"
   },
+  "Q131295708": {
+    "club": "Real Sociedad de Fútbol B",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_2",
+    "name": "Alex Marchal"
+  },
+  "Q131295995": {
+    "club": "Real Sociedad de Fútbol B",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_2",
+    "name": "Arkaitz Mariezkurrena"
+  },
+  "Q131296162": {
+    "club": "Real Sociedad de Fútbol B",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_2",
+    "name": "Ekain Orobengoa"
+  },
+  "Q131308754": {
+    "club": "Bilbao Athletic",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_3",
+    "name": "Adrián Pérez Sordo"
+  },
   "Q131313255": {
     "club": "",
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
@@ -11926,6 +13054,18 @@
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
     "league": "Pool nazionalità",
     "name": "Oliver Gouveia"
+  },
+  "Q131321350": {
+    "club": "Schwimm- und Sportverein Ulm 1846 Fußball",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "germany_3",
+    "name": "Christopher Negele"
+  },
+  "Q131335746": {
+    "club": "Racing Club de Ferrol",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_2",
+    "name": "David Carballo"
   },
   "Q131336867": {
     "club": "Sport Lisboa e Benfica B",
@@ -11986,6 +13126,24 @@
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
     "league": "Pool nazionalità",
     "name": "Steve Njiki Djitchou"
+  },
+  "Q131403991": {
+    "club": "Bilbao Athletic",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_3",
+    "name": "Efe Korkut"
+  },
+  "Q131404341": {
+    "club": "Sestao River Club",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_3",
+    "name": "Andoni Arzak"
+  },
+  "Q131404403": {
+    "club": "Bilbao Athletic",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_3",
+    "name": "Manex Gibelalde"
   },
   "Q131431658": {
     "club": "",
@@ -12167,6 +13325,12 @@
     "league": "Pool nazionalità",
     "name": "Mamadou Thierno Barry"
   },
+  "Q131623971": {
+    "club": "Fútbol Club Cartagena",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_2",
+    "name": "Dani Manzanares"
+  },
   "Q131624301": {
     "club": "",
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
@@ -12281,6 +13445,12 @@
     "league": "Pool nazionalità",
     "name": "Duvan Diby"
   },
+  "Q131850431": {
+    "club": "Rot-Weiss Essen",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "germany_3",
+    "name": "Gianluca Swajkowski"
+  },
   "Q131866152": {
     "club": "",
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
@@ -12323,11 +13493,23 @@
     "league": "Pool nazionalità",
     "name": "Kim Moon-hyeon"
   },
+  "Q131968659": {
+    "club": "Club Deportivo Tenerife",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_3",
+    "name": "César Álvarez"
+  },
   "Q131982183": {
     "club": "",
     "first_seen": "2026-07-06T06:59:23.094571+00:00",
     "league": "Pool nazionalità",
     "name": "Samir Hoboobati"
+  },
+  "Q131983335": {
+    "club": "Spielvereinigung Greuther Fürth",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "germany_2",
+    "name": "Leander Popp"
   },
   "Q132055920": {
     "club": "Mito HollyHock",
@@ -12346,6 +13528,12 @@
     "first_seen": "2026-07-06T06:59:23.094571+00:00",
     "league": "Pool nazionalità",
     "name": "Patrick Zabi"
+  },
+  "Q132131635": {
+    "club": "Pisa Sporting Club",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "serie_b",
+    "name": "Alessio Castellini"
   },
   "Q132132547": {
     "club": "",
@@ -12388,6 +13576,12 @@
     "first_seen": "2026-07-06T06:59:23.094571+00:00",
     "league": "Pool nazionalità",
     "name": "Andriano Lebib"
+  },
+  "Q132192634": {
+    "club": "Unión Deportiva Logroñés",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_3",
+    "name": "Jaime Vallejo"
   },
   "Q132202260": {
     "club": "",
@@ -12467,11 +13661,23 @@
     "league": "Pool nazionalità",
     "name": "Diego Rodrigues"
   },
+  "Q132460339": {
+    "club": "Sportverein Darmstadt 1898",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "germany_2",
+    "name": "Nico Baier"
+  },
   "Q132462138": {
     "club": "Consadole Sapporo",
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
     "league": "Pool nazionalità",
     "name": "Kinglord Safo"
+  },
+  "Q132462781": {
+    "club": "Córdoba Club de Fútbol",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_2",
+    "name": "Eder García"
   },
   "Q132471339": {
     "club": "",
@@ -12479,11 +13685,23 @@
     "league": "Pool nazionalità",
     "name": "Gbato Seloh Samuel"
   },
+  "Q132496897": {
+    "club": "Real Sociedad de Fútbol B",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_2",
+    "name": "Jon Garro"
+  },
   "Q132527229": {
     "club": "",
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
     "league": "Pool nazionalità",
     "name": "Alexandre Brito"
+  },
+  "Q132528657": {
+    "club": "Pisa Sporting Club",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "serie_b",
+    "name": "Louis Thomas Buffon"
   },
   "Q132529096": {
     "club": "",
@@ -12502,6 +13720,18 @@
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
     "league": "Pool nazionalità",
     "name": "Kim Yong-Woo"
+  },
+  "Q132531864": {
+    "club": "Real Sociedad de Fútbol B",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_2",
+    "name": "Senza nome (Q132531864)"
+  },
+  "Q132531900": {
+    "club": "Real Sociedad de Fútbol B",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_2",
+    "name": "Senza nome (Q132531900)"
   },
   "Q132532074": {
     "club": "",
@@ -12581,6 +13811,12 @@
     "league": "Pool nazionalità",
     "name": "Henrique Arreiol"
   },
+  "Q132994432": {
+    "club": "Unión Deportiva Almería",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_2",
+    "name": "Pedro Cedillo"
+  },
   "Q133105064": {
     "club": "Colorado Rapids",
     "first_seen": "2026-07-06T06:59:23.094571+00:00",
@@ -12659,6 +13895,12 @@
     "league": "Pool nazionalità",
     "name": "Shin Dong-min"
   },
+  "Q133299248": {
+    "club": "Spielvereinigung Greuther Fürth",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "germany_2",
+    "name": "Reno Münz"
+  },
   "Q133304380": {
     "club": "Thespa Gunma",
     "first_seen": "2026-07-06T06:59:23.094571+00:00",
@@ -12670,6 +13912,12 @@
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
     "league": "Pool nazionalità",
     "name": "Abdoulaye Faye"
+  },
+  "Q133318067": {
+    "club": "Pisa Sporting Club",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "serie_b",
+    "name": "Samuele Angori"
   },
   "Q133447836": {
     "club": "Royal Charleroi Sporting Club",
@@ -12718,6 +13966,24 @@
     "first_seen": "2026-07-06T06:59:23.094571+00:00",
     "league": "Pool nazionalità",
     "name": "Yan Diomande"
+  },
+  "Q133700279": {
+    "club": "Bilbao Athletic",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_3",
+    "name": "Senza nome (Q133700279)"
+  },
+  "Q133701998": {
+    "club": "Bilbao Athletic",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_3",
+    "name": "Iker Monreal"
+  },
+  "Q133702695": {
+    "club": "Bilbao Athletic",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_3",
+    "name": "Senza nome (Q133702695)"
   },
   "Q133730513": {
     "club": "",
@@ -13043,6 +14309,12 @@
     "league": "Pool nazionalità",
     "name": "Zakari El Khalfioui"
   },
+  "Q133887626": {
+    "club": "Futbol Club Andorra",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_2",
+    "name": "Pau Bertran"
+  },
   "Q133891199": {
     "club": "",
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
@@ -13066,6 +14338,18 @@
     "first_seen": "2026-07-06T06:59:23.094571+00:00",
     "league": "Pool nazionalità",
     "name": "Adam Alioui"
+  },
+  "Q133968745": {
+    "club": "Bilbao Athletic",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_3",
+    "name": "Senza nome (Q133968745)"
+  },
+  "Q133968978": {
+    "club": "Bilbao Athletic",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_3",
+    "name": "Senza nome (Q133968978)"
   },
   "Q134043452": {
     "club": "",
@@ -13138,6 +14422,12 @@
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
     "league": "Pool nazionalità",
     "name": "Mohammad Al-Bishi"
+  },
+  "Q134285398": {
+    "club": "",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_2",
+    "name": "Roger Hinojo"
   },
   "Q134285399": {
     "club": "Real Avilés Club de Fútbol",
@@ -13217,11 +14507,23 @@
     "league": "Pool nazionalità",
     "name": "Ilyas Hidaoui"
   },
+  "Q134434222": {
+    "club": "Bilbao Athletic",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_3",
+    "name": "Peio Huestamendia"
+  },
   "Q134434289": {
     "club": "",
     "first_seen": "2026-07-06T06:59:23.094571+00:00",
     "league": "Pool nazionalità",
     "name": "Luis Balbo"
+  },
+  "Q134438291": {
+    "club": "Venlose Voetbal Vereniging Venlo",
+    "first_seen": "2026-08-11T17:27:15.317407+00:00",
+    "league": "netherlands_2",
+    "name": "Senza nome (Q134438291)"
   },
   "Q134438446": {
     "club": "",
@@ -13385,6 +14687,12 @@
     "league": "Pool nazionalità",
     "name": "Belal Attia"
   },
+  "Q134528792": {
+    "club": "Betaald Voetbal De Graafschap",
+    "first_seen": "2026-08-11T17:27:15.317407+00:00",
+    "league": "netherlands_2",
+    "name": "Bouke Boersma"
+  },
   "Q134530769": {
     "club": "",
     "first_seen": "2026-07-06T06:59:23.094571+00:00",
@@ -13540,6 +14848,12 @@
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
     "league": "Pool nazionalità",
     "name": "Lee Ji-ho"
+  },
+  "Q134704268": {
+    "club": "AS Saint-Étienne",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "france_2",
+    "name": "Sonny Yvars"
   },
   "Q134713602": {
     "club": "",
@@ -13721,6 +15035,12 @@
     "league": "Pool nazionalità",
     "name": "Isaac Obeng"
   },
+  "Q135101604": {
+    "club": "Club Esportiu Europa",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_3",
+    "name": "Tommy Marqués"
+  },
   "Q135115011": {
     "club": "",
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
@@ -13792,6 +15112,18 @@
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
     "league": "Pool nazionalità",
     "name": "Senza nome (Q135258633)"
+  },
+  "Q135261023": {
+    "club": "Club de Fútbol Intercity",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_3",
+    "name": "Keyner Ron"
+  },
+  "Q135265919": {
+    "club": "Spielvereinigung Greuther Fürth",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "germany_2",
+    "name": "Senza nome (Q135265919)"
   },
   "Q135267818": {
     "club": "ASCE La Linguère",
@@ -14003,6 +15335,12 @@
     "league": "Pool nazionalità",
     "name": "Sergio Hernández"
   },
+  "Q135484724": {
+    "club": "Real Sociedad de Fútbol B",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_2",
+    "name": "Gorka Gorosabel"
+  },
   "Q135488666": {
     "club": "",
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
@@ -14033,6 +15371,18 @@
     "league": "Pool nazionalità",
     "name": "Ismael Maiga"
   },
+  "Q135521917": {
+    "club": "Real Sociedad de Fútbol B",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_2",
+    "name": "Gorka Carrera"
+  },
+  "Q135526872": {
+    "club": "",
+    "first_seen": "2026-08-12T05:01:34.679598+00:00",
+    "league": "Pool nazionalità",
+    "name": "Kufre Eta"
+  },
   "Q135550564": {
     "club": "",
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
@@ -14050,6 +15400,12 @@
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
     "league": "Pool nazionalità",
     "name": "Ibraheem Mahfus Ajasa"
+  },
+  "Q135615944": {
+    "club": "H. Verona",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "serie_b",
+    "name": "Fallou Cham"
   },
   "Q135616172": {
     "club": "RC de Strasbourg Alsace",
@@ -14099,11 +15455,53 @@
     "league": "Pool nazionalità",
     "name": "Jacques Mbiandjeu"
   },
+  "Q135670639": {
+    "club": "Football Bourg-en-Bresse Péronnas 01",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "france_3",
+    "name": "Mohamed Sylla"
+  },
+  "Q135670640": {
+    "club": "Football Bourg-en-Bresse Péronnas 01",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "france_3",
+    "name": "Jonathan Do Marcolino"
+  },
+  "Q135670641": {
+    "club": "Football Bourg-en-Bresse Péronnas 01",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "france_3",
+    "name": "Mamadou Conté"
+  },
+  "Q135670644": {
+    "club": "Football Bourg-en-Bresse Péronnas 01",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "france_3",
+    "name": "Mohamed Boumaaoui"
+  },
+  "Q135670645": {
+    "club": "Football Bourg-en-Bresse Péronnas 01",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "france_3",
+    "name": "Benjamin Bešić"
+  },
+  "Q135670646": {
+    "club": "Football Bourg-en-Bresse Péronnas 01",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "france_3",
+    "name": "Destin Banzouzi"
+  },
   "Q135674307": {
     "club": "",
     "first_seen": "2026-07-06T06:59:23.094571+00:00",
     "league": "Pool nazionalità",
     "name": "Lassana Traoré"
+  },
+  "Q135676761": {
+    "club": "Real Sociedad de Fútbol B",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_2",
+    "name": "Lander Astiazaran"
   },
   "Q135678948": {
     "club": "",
@@ -14122,6 +15520,12 @@
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
     "league": "Pool nazionalità",
     "name": "Jota"
+  },
+  "Q135686049": {
+    "club": "Hertha Berliner Sport-Club",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "germany_2",
+    "name": "Kennet Eichhorn"
   },
   "Q135686504": {
     "club": "",
@@ -14158,6 +15562,12 @@
     "first_seen": "2026-08-07T04:55:06.647352+00:00",
     "league": "Pool nazionalità",
     "name": "Samson Nwulu"
+  },
+  "Q135811143": {
+    "club": "Sportvereniging Roda Juliana Combinatie",
+    "first_seen": "2026-08-11T17:27:15.317407+00:00",
+    "league": "netherlands_2",
+    "name": "Luca Maiorano"
   },
   "Q135839014": {
     "club": "",
@@ -14225,6 +15635,12 @@
     "league": "Pool nazionalità",
     "name": "Guy-Noel Zohouri"
   },
+  "Q135894739": {
+    "club": "Real Sociedad de Fútbol B",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_2",
+    "name": "Jon Eceizabarrena"
+  },
   "Q135898933": {
     "club": "",
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
@@ -14279,17 +15695,35 @@
     "league": "Pool nazionalità",
     "name": "Godfred Atuahene"
   },
+  "Q135972923": {
+    "club": "",
+    "first_seen": "2026-08-11T14:18:15.091063+00:00",
+    "league": "Pool nazionalità",
+    "name": "Sergio Aguayo Castillo"
+  },
   "Q135976797": {
     "club": "",
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
     "league": "Pool nazionalità",
     "name": "Sergio Hernández"
   },
+  "Q135983288": {
+    "club": "NAC Breda",
+    "first_seen": "2026-08-11T17:27:15.317407+00:00",
+    "league": "netherlands_2",
+    "name": "Jayden Candelaria"
+  },
   "Q135985460": {
     "club": "Football Bourg-en-Bresse Péronnas 01",
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
     "league": "Pool nazionalità",
     "name": "Mouhamed Kara Seye"
+  },
+  "Q135987676": {
+    "club": "1. Fußball-Club Nürnberg Verein für Leibesübungen",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "germany_2",
+    "name": "Eric Porstner"
   },
   "Q135989452": {
     "club": "",
@@ -14320,6 +15754,12 @@
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
     "league": "Pool nazionalità",
     "name": "Seyni Mbaye Ndiaye"
+  },
+  "Q136065502": {
+    "club": "Football Club Dordrecht",
+    "first_seen": "2026-08-11T17:27:15.317407+00:00",
+    "league": "netherlands_2",
+    "name": "Robin van Asten"
   },
   "Q136085433": {
     "club": "",
@@ -14627,6 +16067,12 @@
     "league": "Pool nazionalità",
     "name": "David Boison Frimpong"
   },
+  "Q136332339": {
+    "club": "Red Star Football Club",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "france_2",
+    "name": "Rayan Slimani"
+  },
   "Q136344484": {
     "club": "",
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
@@ -14644,6 +16090,12 @@
     "first_seen": "2026-07-06T06:59:23.094571+00:00",
     "league": "Pool nazionalità",
     "name": "Christ Wawa"
+  },
+  "Q136379374": {
+    "club": "Burgos Club de Fútbol",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_2",
+    "name": "Fermín García"
   },
   "Q136384877": {
     "club": "",
@@ -14728,6 +16180,12 @@
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
     "league": "Pool nazionalità",
     "name": "Waldo Madrid"
+  },
+  "Q136437813": {
+    "club": "Cádiz Club de Fútbol",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_2",
+    "name": "Ibon Sánchez"
   },
   "Q136438140": {
     "club": "",
@@ -14824,6 +16282,12 @@
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
     "league": "Pool nazionalità",
     "name": "Mahdi Mohsenkhah"
+  },
+  "Q136456356": {
+    "club": "Rooms Katholieke Combinatie Waalwijk",
+    "first_seen": "2026-08-11T17:27:15.317407+00:00",
+    "league": "netherlands_2",
+    "name": "Tim van der Leij"
   },
   "Q136463299": {
     "club": "Futbol'ny Klub Tarpeda Žodzina",
@@ -14933,6 +16397,12 @@
     "league": "Pool nazionalità",
     "name": "Omid Amiri"
   },
+  "Q136557086": {
+    "club": "Stichting Betaald Voetbal Vitesse",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "netherlands_2",
+    "name": "Adam Tahaui"
+  },
   "Q136562429": {
     "club": "",
     "first_seen": "2026-07-06T06:59:23.094571+00:00",
@@ -14969,6 +16439,12 @@
     "league": "Pool nazionalità",
     "name": "Liam Bonetig"
   },
+  "Q136672791": {
+    "club": "Sociedad Deportiva Eibar",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_2",
+    "name": "Hugo García"
+  },
   "Q136677136": {
     "club": "",
     "first_seen": "2026-07-06T06:59:23.094571+00:00",
@@ -14980,6 +16456,12 @@
     "first_seen": "2026-08-07T04:55:06.647352+00:00",
     "league": "Pool nazionalità",
     "name": "Mahdi Nicoll-Jazuli"
+  },
+  "Q136696291": {
+    "club": "Stichting Betaald Voetbal Vitesse",
+    "first_seen": "2026-08-11T17:27:15.317407+00:00",
+    "league": "netherlands_2",
+    "name": "Senza nome (Q136696291)"
   },
   "Q136696354": {
     "club": "",
@@ -14999,6 +16481,18 @@
     "league": "Pool nazionalità",
     "name": "João Arlete Pinto"
   },
+  "Q136697942": {
+    "club": "Stichting Betaald Voetbal Vitesse",
+    "first_seen": "2026-08-11T17:27:15.317407+00:00",
+    "league": "netherlands_2",
+    "name": "Senza nome (Q136697942)"
+  },
+  "Q136699253": {
+    "club": "Stichting Betaald Voetbal Vitesse",
+    "first_seen": "2026-08-11T17:27:15.317407+00:00",
+    "league": "netherlands_2",
+    "name": "Senza nome (Q136699253)"
+  },
   "Q136706471": {
     "club": "",
     "first_seen": "2026-07-06T06:59:23.094571+00:00",
@@ -15011,11 +16505,23 @@
     "league": "Pool nazionalità",
     "name": "Senza nome (Q136707065)"
   },
+  "Q136707505": {
+    "club": "Stichting Betaald Voetbal Vitesse",
+    "first_seen": "2026-08-11T17:27:15.317407+00:00",
+    "league": "netherlands_2",
+    "name": "Senza nome (Q136707505)"
+  },
   "Q136716630": {
     "club": "Stichting Betaald Voetbal Vitesse",
     "first_seen": "2026-07-06T06:59:23.094571+00:00",
     "league": "Pool nazionalità",
     "name": "Senza nome (Q136716630)"
+  },
+  "Q136718467": {
+    "club": "Bilbao Athletic",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_3",
+    "name": "Selton Sánchez"
   },
   "Q136733619": {
     "club": "Urawa Red Diamonds",
@@ -15041,6 +16547,12 @@
     "league": "Pool nazionalità",
     "name": "Senza nome (Q136756817)"
   },
+  "Q136763194": {
+    "club": "Real Sociedad de Fútbol B",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_2",
+    "name": "Ibai Aguirre"
+  },
   "Q136766297": {
     "club": "",
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
@@ -15059,6 +16571,12 @@
     "league": "Pool nazionalità",
     "name": "Adulai Djabi Embalo"
   },
+  "Q136802869": {
+    "club": "Club Deportivo Leganés",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_2",
+    "name": "David Hamansenya"
+  },
   "Q136832123": {
     "club": "",
     "first_seen": "2026-07-06T06:59:23.094571+00:00",
@@ -15071,11 +16589,29 @@
     "league": "Pool nazionalità",
     "name": "Senza nome (Q136881415)"
   },
+  "Q136892238": {
+    "club": "Football Club Dordrecht",
+    "first_seen": "2026-08-11T17:27:15.317407+00:00",
+    "league": "netherlands_2",
+    "name": "Senza nome (Q136892238)"
+  },
+  "Q136892461": {
+    "club": "Football Club Dordrecht",
+    "first_seen": "2026-08-11T17:27:15.317407+00:00",
+    "league": "netherlands_2",
+    "name": "Senza nome (Q136892461)"
+  },
   "Q136950628": {
     "club": "",
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
     "league": "Pool nazionalità",
     "name": "Lamah Bamba"
+  },
+  "Q137067992": {
+    "club": "Football Club Den Bosch",
+    "first_seen": "2026-08-11T17:27:15.317407+00:00",
+    "league": "netherlands_2",
+    "name": "Marlon van de Wetering"
   },
   "Q137103401": {
     "club": "Hrvatski akademski športski klub Mladost",
@@ -15101,11 +16637,23 @@
     "league": "Pool nazionalità",
     "name": "Richard Akonnor"
   },
+  "Q137170552": {
+    "club": "Real Sociedad de Fútbol B",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_2",
+    "name": "Iker Calderón"
+  },
   "Q137190291": {
     "club": "Amsterdamsche Jong Football Club Ajax",
     "first_seen": "2026-07-06T06:59:23.094571+00:00",
     "league": "Pool nazionalità",
     "name": "Aymean el Hani"
+  },
+  "Q137193673": {
+    "club": "Betaald Voetbal De Graafschap",
+    "first_seen": "2026-08-11T17:27:15.317407+00:00",
+    "league": "netherlands_2",
+    "name": "Nathan Kaninda"
   },
   "Q137201076": {
     "club": "",
@@ -15125,11 +16673,23 @@
     "league": "Pool nazionalità",
     "name": "Fahad Al-Zubaidi"
   },
+  "Q137212197": {
+    "club": "",
+    "first_seen": "2026-08-11T14:18:15.091063+00:00",
+    "league": "Pool nazionalità",
+    "name": "Marco Cruz"
+  },
   "Q137215277": {
     "club": "",
     "first_seen": "2026-07-06T06:59:23.094571+00:00",
     "league": "Pool nazionalità",
     "name": "Serigne Diouf"
+  },
+  "Q137216350": {
+    "club": "Club Deportivo Mirandés",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_2",
+    "name": "Hodei Alutiz"
   },
   "Q137267106": {
     "club": "",
@@ -15148,6 +16708,12 @@
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
     "league": "Pool nazionalità",
     "name": "Francisco Gomes"
+  },
+  "Q137428675": {
+    "club": "Jong FC Utrecht",
+    "first_seen": "2026-08-11T17:27:15.317407+00:00",
+    "league": "netherlands_2",
+    "name": "Jessey Sneijder"
   },
   "Q137432242": {
     "club": "Real Club Deportivo de La Coruña",
@@ -15179,6 +16745,18 @@
     "league": "Pool nazionalità",
     "name": "Ebenezer Harcourt"
   },
+  "Q137562864": {
+    "club": "Real Sociedad de Fútbol B",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_2",
+    "name": "Javier Soroeta"
+  },
+  "Q137563344": {
+    "club": "Sociedad Deportiva Amorebieta",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_3",
+    "name": "Senza nome (Q137563344)"
+  },
   "Q137570383": {
     "club": "",
     "first_seen": "2026-08-07T04:55:06.647352+00:00",
@@ -15191,6 +16769,12 @@
     "league": "Serie C",
     "name": "Gabriele Artistico"
   },
+  "Q137662115": {
+    "club": "Football Club de Metz",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "france_2",
+    "name": "Tahirys Dos Santos"
+  },
   "Q137685915": {
     "club": "",
     "first_seen": "2026-07-07T04:52:24.841994+00:00",
@@ -15202,6 +16786,12 @@
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
     "league": "Pool nazionalità",
     "name": "Luís Gomes"
+  },
+  "Q137701378": {
+    "club": "Real Sociedad de Fútbol B",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_2",
+    "name": "Unax Ayo"
   },
   "Q137705019": {
     "club": "Eintracht Frankfurt",
@@ -15245,6 +16835,12 @@
     "league": "Pool nazionalità",
     "name": "Senza nome (Q137753985)"
   },
+  "Q137779987": {
+    "club": "Real Sociedad de Fútbol B",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_2",
+    "name": "Joan Oleaga"
+  },
   "Q137782536": {
     "club": "",
     "first_seen": "2026-07-06T06:59:23.094571+00:00",
@@ -15268,6 +16864,12 @@
     "first_seen": "2026-07-06T06:59:23.094571+00:00",
     "league": "Pool nazionalità",
     "name": "Giovanni de Abreu"
+  },
+  "Q137839841": {
+    "club": "Schwimm- und Sportverein Ulm 1846 Fußball",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "germany_3",
+    "name": "Felix Vater"
   },
   "Q137904246": {
     "club": "",
@@ -15389,6 +16991,12 @@
     "league": "Pool nazionalità",
     "name": "Ricky Ngatchou"
   },
+  "Q138327468": {
+    "club": "Betaald Voetbal De Graafschap",
+    "first_seen": "2026-08-11T17:27:15.317407+00:00",
+    "league": "netherlands_2",
+    "name": "Senza nome (Q138327468)"
+  },
   "Q138340317": {
     "club": "",
     "first_seen": "2026-08-07T04:55:06.647352+00:00",
@@ -15448,6 +17056,12 @@
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
     "league": "Pool nazionalità",
     "name": "Hamidou Kante"
+  },
+  "Q138515075": {
+    "club": "Bilbao Athletic",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_3",
+    "name": "Senza nome (Q138515075)"
   },
   "Q138520971": {
     "club": "",
@@ -15509,6 +17123,12 @@
     "league": "Pool nazionalità",
     "name": "Mamadou Billo Diop"
   },
+  "Q138719375": {
+    "club": "Club Deportivo Mirandés",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_2",
+    "name": "Unax del Cura"
+  },
   "Q138732183": {
     "club": "",
     "first_seen": "2026-07-06T06:59:23.094571+00:00",
@@ -15562,6 +17182,12 @@
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
     "league": "Pool nazionalità",
     "name": "Mamadou Diagne"
+  },
+  "Q139244033": {
+    "club": "",
+    "first_seen": "2026-08-11T14:18:15.091063+00:00",
+    "league": "Pool nazionalità",
+    "name": "Samuel Wiafe"
   },
   "Q139254453": {
     "club": "",
@@ -15617,6 +17243,12 @@
     "league": "Pool nazionalità",
     "name": "Sourou Koné"
   },
+  "Q139575728": {
+    "club": "Club Deportivo Mirandés",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_2",
+    "name": "Julen Martínez Landa"
+  },
   "Q139580054": {
     "club": "Futbol'ny Klub Tarpeda Žodzina",
     "first_seen": "2026-07-06T06:59:23.094571+00:00",
@@ -15671,6 +17303,12 @@
     "league": "Pool nazionalità",
     "name": "Tiago Ventura"
   },
+  "Q139814307": {
+    "club": "Club Deportivo Eldense",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_2",
+    "name": "Javier Olaizola Jiménez"
+  },
   "Q139820826": {
     "club": "",
     "first_seen": "2026-07-18T05:12:34.111579+00:00",
@@ -15707,6 +17345,12 @@
     "league": "Pool nazionalità",
     "name": "Ilane Touré"
   },
+  "Q139885360": {
+    "club": "Football Bourg-en-Bresse Péronnas 01",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "france_3",
+    "name": "Romain Muro"
+  },
   "Q139893874": {
     "club": "",
     "first_seen": "2026-07-06T06:59:23.094571+00:00",
@@ -15731,6 +17375,12 @@
     "league": "Pool nazionalità",
     "name": "Sega Mbodji"
   },
+  "Q139913206": {
+    "club": "Real Sociedad de Fútbol B",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_2",
+    "name": "Pello Arana"
+  },
   "Q139913679": {
     "club": "",
     "first_seen": "2026-07-06T06:59:23.094571+00:00",
@@ -15748,6 +17398,12 @@
     "first_seen": "2026-07-06T06:59:23.094571+00:00",
     "league": "Pool nazionalità",
     "name": "Senza nome (Q139961894)"
+  },
+  "Q139972350": {
+    "club": "Dijon Football Côte-d'Or",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "france_2",
+    "name": "Ben-Chayeel Hamada"
   },
   "Q139986016": {
     "club": "",
@@ -15773,6 +17429,24 @@
     "league": "Pool nazionalità",
     "name": "Senza nome (Q140045224)"
   },
+  "Q140045242": {
+    "club": "Football Bourg-en-Bresse Péronnas 01",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "france_3",
+    "name": "Tom Frayssinous"
+  },
+  "Q140054563": {
+    "club": "Football Bourg-en-Bresse Péronnas 01",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "france_3",
+    "name": "Senza nome (Q140054563)"
+  },
+  "Q140054570": {
+    "club": "Football Bourg-en-Bresse Péronnas 01",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "france_3",
+    "name": "Senza nome (Q140054570)"
+  },
   "Q140056525": {
     "club": "",
     "first_seen": "2026-07-06T06:59:23.094571+00:00",
@@ -15790,6 +17464,12 @@
     "first_seen": "2026-07-06T06:59:23.094571+00:00",
     "league": "Pool nazionalità",
     "name": "Kiyan Achahbar"
+  },
+  "Q140078268": {
+    "club": "Football Bourg-en-Bresse Péronnas 01",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "france_3",
+    "name": "Senza nome (Q140078268)"
   },
   "Q140085120": {
     "club": "Football Bourg-en-Bresse Péronnas 01",
@@ -15809,11 +17489,29 @@
     "league": "Pool nazionalità",
     "name": "Lim Jun-sub"
   },
+  "Q140172923": {
+    "club": "Football Bourg-en-Bresse Péronnas 01",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "france_3",
+    "name": "Senza nome (Q140172923)"
+  },
   "Q140185275": {
     "club": "Al-Hilal Club",
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
     "league": "Pool nazionalità",
     "name": "Senza nome (Q140185275)"
+  },
+  "Q140196336": {
+    "club": "Football Bourg-en-Bresse Péronnas 01",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "france_3",
+    "name": "Senza nome (Q140196336)"
+  },
+  "Q140196338": {
+    "club": "Football Bourg-en-Bresse Péronnas 01",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "france_3",
+    "name": "Senza nome (Q140196338)"
   },
   "Q140196339": {
     "club": "Football Bourg-en-Bresse Péronnas 01",
@@ -15905,6 +17603,12 @@
     "league": "Pool nazionalità",
     "name": "Ademar Chávez"
   },
+  "Q140378805": {
+    "club": "Schwimm- und Sportverein Ulm 1846 Fußball",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "germany_3",
+    "name": "Mattis Hoppe"
+  },
   "Q140423799": {
     "club": "",
     "first_seen": "2026-07-26T12:27:16.421389+00:00",
@@ -15958,6 +17662,12 @@
     "first_seen": "2026-07-13T05:18:45.096992+00:00",
     "league": "Pool nazionalità",
     "name": "Victor Lebas"
+  },
+  "Q140533453": {
+    "club": "Cádiz Club de Fútbol",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_2",
+    "name": "Beñat de Jesús"
   },
   "Q140558768": {
     "club": "Hamarkameratene",
@@ -16054,6 +17764,12 @@
     "first_seen": "2026-07-18T05:12:34.111579+00:00",
     "league": "Pool nazionalità",
     "name": "Monninda Tiehi"
+  },
+  "Q140627381": {
+    "club": "",
+    "first_seen": "2026-08-12T05:01:34.679598+00:00",
+    "league": "Pool nazionalità",
+    "name": "Mono Martínez"
   },
   "Q140632653": {
     "club": "",
@@ -16217,11 +17933,41 @@
     "league": "Pool nazionalità",
     "name": "Diego Ramírez"
   },
+  "Q140707716": {
+    "club": "",
+    "first_seen": "2026-08-12T05:01:34.679598+00:00",
+    "league": "Pool nazionalità",
+    "name": "Adonija Ouanda"
+  },
   "Q140762075": {
     "club": "",
     "first_seen": "2026-07-31T06:12:37.118376+00:00",
     "league": "Pool nazionalità",
     "name": "Senza nome (Q140762075)"
+  },
+  "Q140953823": {
+    "club": "",
+    "first_seen": "2026-08-11T14:18:15.091063+00:00",
+    "league": "Pool nazionalità",
+    "name": "Jean-Guy Akpa Akpro"
+  },
+  "Q140981199": {
+    "club": "",
+    "first_seen": "2026-08-11T14:18:15.091063+00:00",
+    "league": "Pool nazionalità",
+    "name": "Senza nome (Q140981199)"
+  },
+  "Q140986306": {
+    "club": "",
+    "first_seen": "2026-08-11T14:18:15.091063+00:00",
+    "league": "Pool nazionalità",
+    "name": "Christopher Boniface"
+  },
+  "Q141003422": {
+    "club": "",
+    "first_seen": "2026-08-12T05:01:34.679598+00:00",
+    "league": "Pool nazionalità",
+    "name": "Nadir Homssa"
   },
   "Q29162779": {
     "club": "",
@@ -16306,6 +18052,18 @@
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
     "league": "Pool nazionalità",
     "name": "Gideon Obeng Kyeremeh"
+  },
+  "Q55767522": {
+    "club": "USL Dunkerque",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "france_2",
+    "name": "Alexi Pitu"
+  },
+  "Q56162424": {
+    "club": "Fußball-Club Energie Cottbus",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "germany_2",
+    "name": "Marcelo Freitas"
   },
   "Q56249910": {
     "club": "Tacoma Defiance",
@@ -16408,6 +18166,12 @@
     "first_seen": "2026-07-05T10:22:50.272631+00:00",
     "league": "Pool nazionalità",
     "name": "Griffin Yow"
+  },
+  "Q62075523": {
+    "club": "Football Club Eindhoven",
+    "first_seen": "2026-08-11T17:27:15.317407+00:00",
+    "league": "netherlands_2",
+    "name": "Gijs van Otterdijk"
   },
   "Q62075812": {
     "club": "Zob Ahan Football Club",
@@ -16655,6 +18419,12 @@
     "league": "Pool nazionalità",
     "name": "Tucker Lepley"
   },
+  "Q65790152": {
+    "club": "Spielvereinigung Greuther Fürth",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "germany_2",
+    "name": "Jomaine Consbruch"
+  },
   "Q65922865": {
     "club": "Colorado Rapids",
     "first_seen": "2026-07-05T10:22:50.272631+00:00",
@@ -16697,11 +18467,29 @@
     "league": "Pool nazionalità",
     "name": "Bryan Okoh"
   },
+  "Q66363768": {
+    "club": "Stade de Reims",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "france_2",
+    "name": "Nathanaël Mbuku"
+  },
   "Q66385757": {
     "club": "Portland Timbers 2",
     "first_seen": "2026-07-05T10:22:50.272631+00:00",
     "league": "Pool nazionalità",
     "name": "Caleb Kiner"
+  },
+  "Q66417384": {
+    "club": "Football Club Den Bosch",
+    "first_seen": "2026-08-11T17:27:15.317407+00:00",
+    "league": "netherlands_2",
+    "name": "Ringo Meerveld"
+  },
+  "Q66432184": {
+    "club": "Stade Lavallois Mayenne Football Club",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "france_2",
+    "name": "Titouan Thomas"
   },
   "Q66604854": {
     "club": "Seattle Sounders FC",
@@ -16750,6 +18538,12 @@
     "first_seen": "2026-07-05T09:28:01.721852+00:00",
     "league": "Pool nazionalità",
     "name": "Dante Huckaby"
+  },
+  "Q66725879": {
+    "club": "Betaald Voetbal De Graafschap",
+    "first_seen": "2026-08-11T17:27:15.317407+00:00",
+    "league": "netherlands_2",
+    "name": "Milan Hilderink"
   },
   "Q66738004": {
     "club": "",
@@ -17027,6 +18821,12 @@
     "league": "Pool nazionalità",
     "name": "Milo Tiatia"
   },
+  "Q77195785": {
+    "club": "Football Club Eindhoven",
+    "first_seen": "2026-08-11T17:27:15.317407+00:00",
+    "league": "netherlands_2",
+    "name": "Alex Smeins"
+  },
   "Q77669999": {
     "club": "Sydney Football Club",
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
@@ -17045,6 +18845,18 @@
     "league": "Pool nazionalità",
     "name": "Sho Morita"
   },
+  "Q77914122": {
+    "club": "Stade Malherbe Caen",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "france_3",
+    "name": "Kélian Nsona"
+  },
+  "Q78563857": {
+    "club": "Venlose Voetbal Vereniging Venlo",
+    "first_seen": "2026-08-11T17:27:15.317407+00:00",
+    "league": "netherlands_2",
+    "name": "Aaron Bastiaans"
+  },
   "Q78651558": {
     "club": "Real Monarchs",
     "first_seen": "2026-07-05T10:22:50.272631+00:00",
@@ -17056,6 +18868,12 @@
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
     "league": "Pool nazionalità",
     "name": "Billy Koumetio"
+  },
+  "Q79416159": {
+    "club": "Athletic Club Ajaccien",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "france_3",
+    "name": "Lisandru Tramoni"
   },
   "Q80862153": {
     "club": "",
@@ -17075,11 +18893,29 @@
     "league": "Pool nazionalità",
     "name": "Ali Auglah"
   },
+  "Q81696070": {
+    "club": "AS Saint-Étienne",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "france_2",
+    "name": "Maxence Rivera"
+  },
   "Q82046547": {
     "club": "Foolad Mobarekeh Sepahan Football Club",
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
     "league": "Pool nazionalità",
     "name": "Yasin Salmani"
+  },
+  "Q83632876": {
+    "club": "Stade de Reims",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "france_2",
+    "name": "Melchie Dumornay"
+  },
+  "Q83687842": {
+    "club": "Real Zaragoza",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "spain_3",
+    "name": "Alejandro Francés"
   },
   "Q83688186": {
     "club": "Minnesota United FC",
@@ -17147,6 +18983,12 @@
     "league": "Pool nazionalità",
     "name": "Mahiro Ano"
   },
+  "Q86009905": {
+    "club": "H. Verona",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "serie_b",
+    "name": "Tomáš Suslov"
+  },
   "Q86061850": {
     "club": "Kashima Antlers",
     "first_seen": "2026-07-05T20:00:26.197276+00:00",
@@ -17188,6 +19030,18 @@
     "first_seen": "2026-07-05T10:22:50.272631+00:00",
     "league": "Pool nazionalità",
     "name": "Casey Walls"
+  },
+  "Q86718410": {
+    "club": "Union Sportive Orléans 45 Football",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "france_2",
+    "name": "Aeron Zinga"
+  },
+  "Q86718479": {
+    "club": "Association Sportive Nancy-Lorraine",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "france_2",
+    "name": "Gautier Ott"
   },
   "Q86878694": {
     "club": "Melbourne Knights Football Club",
@@ -17291,6 +19145,12 @@
     "league": "Pool nazionalità",
     "name": "Eduardo Quaresma"
   },
+  "Q96091702": {
+    "club": "NAC Breda",
+    "first_seen": "2026-08-11T17:27:15.317407+00:00",
+    "league": "netherlands_2",
+    "name": "Matthew Garbett"
+  },
   "Q96146325": {
     "club": "Hammarby Idrottsförening",
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
@@ -17339,6 +19199,18 @@
     "league": "Pool nazionalità",
     "name": "Román Martínez"
   },
+  "Q96474241": {
+    "club": "Football Club Emmen",
+    "first_seen": "2026-08-11T17:27:15.317407+00:00",
+    "league": "netherlands_2",
+    "name": "Torben Rhein"
+  },
+  "Q96575714": {
+    "club": "Kieler Sportvereinigung Holstein von 1900",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "germany_2",
+    "name": "Jonas Sterner"
+  },
   "Q96678329": {
     "club": "",
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
@@ -17350,6 +19222,12 @@
     "first_seen": "2026-07-05T10:22:50.272631+00:00",
     "league": "Pool nazionalità",
     "name": "Jony Muñoz"
+  },
+  "Q96781685": {
+    "club": "FC Viktoria Köln",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "germany_3",
+    "name": "Alexander Höck"
   },
   "Q96793422": {
     "club": "Sporting Clube de Portugal",
@@ -17447,11 +19325,23 @@
     "league": "Pool nazionalità",
     "name": "Reed Baker-Whiting"
   },
+  "Q97349304": {
+    "club": "AS Saint-Étienne",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "france_2",
+    "name": "Lucas Gourna-Douath"
+  },
   "Q97356007": {
     "club": "Futbol'nyj Klub Kryvbas",
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
     "league": "Pool nazionalità",
     "name": "Prince Kwabena Adu"
+  },
+  "Q97365074": {
+    "club": "1. Fußball-Club Magdeburg",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "germany_2",
+    "name": "Paul Radom"
   },
   "Q97451330": {
     "club": "",
@@ -17464,6 +19354,12 @@
     "first_seen": "2026-07-05T20:00:26.197276+00:00",
     "league": "Pool nazionalità",
     "name": "Motonobu Ogino"
+  },
+  "Q97481704": {
+    "club": "Kieler Sportvereinigung Holstein von 1900",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "germany_2",
+    "name": "Adrián Kaprálik"
   },
   "Q97482668": {
     "club": "Carolina RailHawks FC",
@@ -17530,6 +19426,12 @@
     "first_seen": "2026-07-05T10:22:50.272631+00:00",
     "league": "Pool nazionalità",
     "name": "Alejandro Alvarado"
+  },
+  "Q97570439": {
+    "club": "Sport Lisboa e Benfica B",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "portugal_2",
+    "name": "Rafael Obrador"
   },
   "Q97570823": {
     "club": "",
@@ -18017,6 +19919,12 @@
     "league": "Pool nazionalità",
     "name": "Cesar Cuellar"
   },
+  "Q98168922": {
+    "club": "FC Viktoria Köln",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "germany_3",
+    "name": "Elias Bördner"
+  },
   "Q98170556": {
     "club": "",
     "first_seen": "2026-07-05T10:22:50.272631+00:00",
@@ -18034,6 +19942,12 @@
     "first_seen": "2026-07-05T20:00:26.197276+00:00",
     "league": "Pool nazionalità",
     "name": "Kai Meriluoto"
+  },
+  "Q98248229": {
+    "club": "Deutscher Sportclub Arminia Bielefeld",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "germany_2",
+    "name": "Mika Schroers"
   },
   "Q98298471": {
     "club": "",
@@ -18221,6 +20135,12 @@
     "league": "Pool nazionalità",
     "name": "Tega Ikoba"
   },
+  "Q98846968": {
+    "club": "Football Club Dordrecht",
+    "first_seen": "2026-08-11T17:27:15.317407+00:00",
+    "league": "netherlands_2",
+    "name": "Julian Baas"
+  },
   "Q98912121": {
     "club": "",
     "first_seen": "2026-07-05T10:22:50.272631+00:00",
@@ -18311,6 +20231,12 @@
     "league": "Pool nazionalità",
     "name": "Diego Crosa"
   },
+  "Q99543951": {
+    "club": "Football Club Dordrecht",
+    "first_seen": "2026-08-11T17:27:15.317407+00:00",
+    "league": "netherlands_2",
+    "name": "Bryan Richardson"
+  },
   "Q99557502": {
     "club": "New York Red Bulls II",
     "first_seen": "2026-07-05T10:22:50.272631+00:00",
@@ -18346,6 +20272,12 @@
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
     "league": "Pool nazionalità",
     "name": "Francisco Conceição"
+  },
+  "Q99646038": {
+    "club": "Düsseldorfer Turn- und Sportverein Fortuna 1895",
+    "first_seen": "2026-08-11T15:51:54.182576+00:00",
+    "league": "germany_3",
+    "name": "Jamil Siebert"
   },
   "Q99669375": {
     "club": "",
