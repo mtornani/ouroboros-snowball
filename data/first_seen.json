@@ -15359,6 +15359,12 @@
     "league": "Pool nazionalità",
     "name": "Miguel Rebelo"
   },
+  "Q135398675": {
+    "club": "",
+    "first_seen": "2026-08-15T05:01:12.608203+00:00",
+    "league": "Pool nazionalità",
+    "name": "Kparobo Arierhi"
+  },
   "Q135400513": {
     "club": "",
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
@@ -15400,6 +15406,12 @@
     "first_seen": "2026-07-06T06:59:23.094571+00:00",
     "league": "Pool nazionalità",
     "name": "Joe Lacey"
+  },
+  "Q135422413": {
+    "club": "Cesena Football Club",
+    "first_seen": "2026-08-15T05:01:12.608203+00:00",
+    "league": "serie_b",
+    "name": "Alessandro Debenedetti"
   },
   "Q135434621": {
     "club": "",
@@ -16894,6 +16906,12 @@
     "first_seen": "2026-08-07T04:55:06.647352+00:00",
     "league": "Pool nazionalità",
     "name": "Charles Agada"
+  },
+  "Q137587030": {
+    "club": "Unión Deportiva Logroñés",
+    "first_seen": "2026-08-15T05:01:12.608203+00:00",
+    "league": "spain_3",
+    "name": "Senza nome (Q137587030)"
   },
   "Q137640703": {
     "club": "Spezia Calcio",
