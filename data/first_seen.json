@@ -12467,6 +12467,60 @@
     "league": "Pool nazionalità",
     "name": "Edris Rahmani"
   },
+  "Q130534368": {
+    "club": "Yokohama FC",
+    "first_seen": "2026-08-16T05:04:16.319132+00:00",
+    "league": "Pool nazionalità",
+    "name": "Soma Sato"
+  },
+  "Q130534684": {
+    "club": "Yokohama FC",
+    "first_seen": "2026-08-16T05:04:16.319132+00:00",
+    "league": "Pool nazionalità",
+    "name": "Koki Kumakura"
+  },
+  "Q130534950": {
+    "club": "Yokohama FC",
+    "first_seen": "2026-08-16T05:04:16.319132+00:00",
+    "league": "Pool nazionalità",
+    "name": "Takanari Endo"
+  },
+  "Q130535071": {
+    "club": "Yokohama FC",
+    "first_seen": "2026-08-16T05:04:16.319132+00:00",
+    "league": "Pool nazionalità",
+    "name": "Naoya Komazawa"
+  },
+  "Q130536118": {
+    "club": "Yokohama FC",
+    "first_seen": "2026-08-16T05:04:16.319132+00:00",
+    "league": "Pool nazionalità",
+    "name": "Tsukasa Ogame"
+  },
+  "Q130536464": {
+    "club": "Yokohama FC",
+    "first_seen": "2026-08-16T05:04:16.319132+00:00",
+    "league": "Pool nazionalità",
+    "name": "Jui Hata"
+  },
+  "Q130536914": {
+    "club": "Yokohama FC",
+    "first_seen": "2026-08-16T05:04:16.319132+00:00",
+    "league": "Pool nazionalità",
+    "name": "Kantaro Maeda"
+  },
+  "Q130537325": {
+    "club": "Ventforet Kofu",
+    "first_seen": "2026-08-16T05:04:16.319132+00:00",
+    "league": "Pool nazionalità",
+    "name": "Kotatsu Kumakura"
+  },
+  "Q130537520": {
+    "club": "Shimizu S-Pulse",
+    "first_seen": "2026-08-16T05:04:16.319132+00:00",
+    "league": "Pool nazionalità",
+    "name": "Ryunosuke Yada"
+  },
   "Q130538174": {
     "club": "Shimizu S-Pulse",
     "first_seen": "2026-07-11T10:08:56.011949+00:00",
@@ -18172,6 +18226,12 @@
     "first_seen": "2026-08-13T05:01:42.780462+00:00",
     "league": "france_3",
     "name": "Zourab Sopromadze"
+  },
+  "Q141014953": {
+    "club": "",
+    "first_seen": "2026-08-16T05:04:16.319132+00:00",
+    "league": "Pool nazionalità",
+    "name": "Yasin Jorjani"
   },
   "Q141015818": {
     "club": "",
