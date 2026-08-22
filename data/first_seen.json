@@ -10199,6 +10199,12 @@
     "league": "Pool nazionalità",
     "name": "Kaito Seriu"
   },
+  "Q124623840": {
+    "club": "Real Sociedad de Fútbol B",
+    "first_seen": "2026-08-22T05:01:24.007443+00:00",
+    "league": "spain_2",
+    "name": "Iñaki Rupérez"
+  },
   "Q124624152": {
     "club": "Ehime FC",
     "first_seen": "2026-07-06T06:59:23.094571+00:00",
@@ -18299,11 +18305,29 @@
     "league": "Pool nazionalità",
     "name": "Senza nome (Q141130212)"
   },
+  "Q141136882": {
+    "club": "",
+    "first_seen": "2026-08-22T05:01:24.007443+00:00",
+    "league": "Pool nazionalità",
+    "name": "Senza nome (Q141136882)"
+  },
   "Q141137520": {
     "club": "",
     "first_seen": "2026-08-21T05:01:37.722712+00:00",
     "league": "Pool nazionalità",
     "name": "Aboubacar Sidibé"
+  },
+  "Q141137521": {
+    "club": "",
+    "first_seen": "2026-08-22T05:01:24.007443+00:00",
+    "league": "Pool nazionalità",
+    "name": "Rayane Ekra"
+  },
+  "Q141137525": {
+    "club": "",
+    "first_seen": "2026-08-22T05:01:24.007443+00:00",
+    "league": "Pool nazionalità",
+    "name": "Enzo-Noël Dodé"
   },
   "Q141137527": {
     "club": "",
@@ -18316,6 +18340,12 @@
     "first_seen": "2026-08-21T05:01:37.722712+00:00",
     "league": "Pool nazionalità",
     "name": "Nicolas Bernardiño"
+  },
+  "Q141137537": {
+    "club": "",
+    "first_seen": "2026-08-22T05:01:24.007443+00:00",
+    "league": "Pool nazionalità",
+    "name": "Jordan Poha"
   },
   "Q141137538": {
     "club": "",
