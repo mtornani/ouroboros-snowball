@@ -6413,6 +6413,12 @@
     "league": "Pool nazionalità",
     "name": "Shuma Kido"
   },
+  "Q117463696": {
+    "club": "Cosenza Calcio",
+    "first_seen": "2026-08-25T05:04:49.672676+00:00",
+    "league": "Serie C",
+    "name": "Nicolò Contiliano"
+  },
   "Q117469751": {
     "club": "Futbol'ny Klub ML Vicebsk",
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
@@ -16817,6 +16823,12 @@
     "league": "Pool nazionalità",
     "name": "Lamah Bamba"
   },
+  "Q136995268": {
+    "club": "Licata Calcio 1931",
+    "first_seen": "2026-08-25T05:04:49.672676+00:00",
+    "league": "Serie D",
+    "name": "Adnan Aziz"
+  },
   "Q137067992": {
     "club": "Football Club Den Bosch",
     "first_seen": "2026-08-11T17:27:15.317407+00:00",
@@ -17464,6 +17476,12 @@
     "first_seen": "2026-07-06T06:59:23.094571+00:00",
     "league": "Pool nazionalità",
     "name": "Sourou Koné"
+  },
+  "Q139565011": {
+    "club": "En avant Guingamp",
+    "first_seen": "2026-08-25T05:04:49.672676+00:00",
+    "league": "france_2",
+    "name": "Tanguy Ahile"
   },
   "Q139575728": {
     "club": "Club Deportivo Mirandés",
@@ -18406,6 +18424,18 @@
     "first_seen": "2026-08-23T05:01:41.986202+00:00",
     "league": "spain_2",
     "name": "Senza nome (Q141152440)"
+  },
+  "Q141162272": {
+    "club": "Yellow Red Koninklijke Voetbalclub Mechelen",
+    "first_seen": "2026-08-25T05:04:49.672676+00:00",
+    "league": "Pool nazionalità",
+    "name": "Adeshina Ayodele"
+  },
+  "Q141170487": {
+    "club": "",
+    "first_seen": "2026-08-25T05:04:49.672676+00:00",
+    "league": "Pool nazionalità",
+    "name": "Alaat Abdul-Rahman"
   },
   "Q29162779": {
     "club": "",
