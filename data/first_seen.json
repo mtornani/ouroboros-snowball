@@ -18329,6 +18329,12 @@
     "league": "Pool nazionalità",
     "name": "Senza nome (Q141130212)"
   },
+  "Q141134701": {
+    "club": "",
+    "first_seen": "2026-08-26T05:05:02.429764+00:00",
+    "league": "Pool nazionalità",
+    "name": "Adeola David"
+  },
   "Q141136882": {
     "club": "",
     "first_seen": "2026-08-22T05:01:24.007443+00:00",
@@ -18418,6 +18424,12 @@
     "first_seen": "2026-08-23T05:01:41.986202+00:00",
     "league": "Serie C",
     "name": "Matteo Venini"
+  },
+  "Q141151814": {
+    "club": "",
+    "first_seen": "2026-08-26T05:05:02.429764+00:00",
+    "league": "Pool nazionalità",
+    "name": "Elias Mechrouh"
   },
   "Q141152440": {
     "club": "Club Deportivo Mirandés",
