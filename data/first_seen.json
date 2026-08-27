@@ -1511,6 +1511,12 @@
     "league": "Pool nazionalità",
     "name": "Jing Reec"
   },
+  "Q107110878": {
+    "club": "Brisbane Roar Football Club",
+    "first_seen": "2026-08-27T05:01:57.717659+00:00",
+    "league": "Pool nazionalità",
+    "name": "Eli Adams"
+  },
   "Q107119999": {
     "club": "",
     "first_seen": "2026-07-05T10:22:50.272631+00:00",
@@ -1522,6 +1528,12 @@
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
     "league": "Pool nazionalità",
     "name": "Max Caputo"
+  },
+  "Q107126735": {
+    "club": "",
+    "first_seen": "2026-08-27T05:01:57.717659+00:00",
+    "league": "Pool nazionalità",
+    "name": "Damian Las"
   },
   "Q107132504": {
     "club": "",
@@ -2524,6 +2536,12 @@
     "first_seen": "2026-07-05T20:00:26.197276+00:00",
     "league": "Pool nazionalità",
     "name": "Kensuke Fujiwara"
+  },
+  "Q109605287": {
+    "club": "Verein für Leibesübungen Wolfsburg",
+    "first_seen": "2026-08-27T05:01:57.717659+00:00",
+    "league": "germany_2",
+    "name": "Konstantinos Koulierakis"
   },
   "Q109623096": {
     "club": "",
@@ -16769,6 +16787,12 @@
     "league": "spain_2",
     "name": "Ibai Aguirre"
   },
+  "Q136766291": {
+    "club": "",
+    "first_seen": "2026-08-27T05:01:57.717659+00:00",
+    "league": "Pool nazionalità",
+    "name": "Kim Ho-jin"
+  },
   "Q136766297": {
     "club": "",
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
@@ -17849,6 +17873,18 @@
     "league": "germany_3",
     "name": "Mattis Hoppe"
   },
+  "Q140397348": {
+    "club": "",
+    "first_seen": "2026-08-27T05:01:57.717659+00:00",
+    "league": "Pool nazionalità",
+    "name": "Yun Dae-keun"
+  },
+  "Q140397493": {
+    "club": "",
+    "first_seen": "2026-08-27T05:01:57.717659+00:00",
+    "league": "Pool nazionalità",
+    "name": "Cho Young-jun"
+  },
   "Q140423799": {
     "club": "",
     "first_seen": "2026-07-26T12:27:16.421389+00:00",
@@ -18383,6 +18419,18 @@
     "league": "Pool nazionalità",
     "name": "Noa Donat"
   },
+  "Q141144349": {
+    "club": "",
+    "first_seen": "2026-08-27T05:01:57.717659+00:00",
+    "league": "Pool nazionalità",
+    "name": "Yohan Orozco"
+  },
+  "Q141145030": {
+    "club": "",
+    "first_seen": "2026-08-27T05:01:57.717659+00:00",
+    "league": "Pool nazionalità",
+    "name": "Luis Carmona"
+  },
   "Q141148571": {
     "club": "Accra Hearts of Oak Sporting Club",
     "first_seen": "2026-08-23T05:01:41.986202+00:00",
@@ -18425,6 +18473,12 @@
     "league": "Serie C",
     "name": "Matteo Venini"
   },
+  "Q141150469": {
+    "club": "",
+    "first_seen": "2026-08-27T05:01:57.717659+00:00",
+    "league": "Pool nazionalità",
+    "name": "Sebastián Liceaga"
+  },
   "Q141151814": {
     "club": "",
     "first_seen": "2026-08-26T05:05:02.429764+00:00",
@@ -18437,17 +18491,35 @@
     "league": "spain_2",
     "name": "Senza nome (Q141152440)"
   },
+  "Q141158273": {
+    "club": "",
+    "first_seen": "2026-08-27T05:01:57.717659+00:00",
+    "league": "Pool nazionalità",
+    "name": "Artemio Olvera"
+  },
   "Q141162272": {
     "club": "Yellow Red Koninklijke Voetbalclub Mechelen",
     "first_seen": "2026-08-25T05:04:49.672676+00:00",
     "league": "Pool nazionalità",
     "name": "Adeshina Ayodele"
   },
+  "Q141162914": {
+    "club": "Kieler Sportvereinigung Holstein von 1900",
+    "first_seen": "2026-08-27T05:01:57.717659+00:00",
+    "league": "germany_2",
+    "name": "Leon Parduzi"
+  },
   "Q141170487": {
     "club": "",
     "first_seen": "2026-08-25T05:04:49.672676+00:00",
     "league": "Pool nazionalità",
     "name": "Alaat Abdul-Rahman"
+  },
+  "Q141175045": {
+    "club": "",
+    "first_seen": "2026-08-27T05:01:57.717659+00:00",
+    "league": "Pool nazionalità",
+    "name": "Wills Tene Nkingne"
   },
   "Q29162779": {
     "club": "",
