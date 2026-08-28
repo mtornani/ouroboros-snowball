@@ -15737,6 +15737,18 @@
     "league": "spain_2",
     "name": "Lander Astiazaran"
   },
+  "Q135676964": {
+    "club": "Bilbao Athletic",
+    "first_seen": "2026-08-28T05:01:48.300581+00:00",
+    "league": "spain_3",
+    "name": "Beñat Larrea"
+  },
+  "Q135676989": {
+    "club": "Bilbao Athletic",
+    "first_seen": "2026-08-28T05:01:48.300581+00:00",
+    "league": "spain_3",
+    "name": "Senza nome (Q135676989)"
+  },
   "Q135678948": {
     "club": "",
     "first_seen": "2026-07-06T06:59:23.094571+00:00",
@@ -18521,6 +18533,18 @@
     "league": "Pool nazionalità",
     "name": "Wills Tene Nkingne"
   },
+  "Q141198240": {
+    "club": "Bilbao Athletic",
+    "first_seen": "2026-08-28T05:01:48.300581+00:00",
+    "league": "spain_3",
+    "name": "Senza nome (Q141198240)"
+  },
+  "Q141198544": {
+    "club": "Bilbao Athletic",
+    "first_seen": "2026-08-28T05:01:48.300581+00:00",
+    "league": "spain_3",
+    "name": "Senza nome (Q141198544)"
+  },
   "Q29162779": {
     "club": "",
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
@@ -18862,6 +18886,12 @@
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
     "league": "Pool nazionalità",
     "name": "Moussa N'Diaye"
+  },
+  "Q64732477": {
+    "club": "Profesionalen Futbolen Klub CSKA",
+    "first_seen": "2026-08-28T05:01:48.300581+00:00",
+    "league": "Pool nazionalità",
+    "name": "Ilia Shalamanov"
   },
   "Q64735255": {
     "club": "Loudoun United FC",
