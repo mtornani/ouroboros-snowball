@@ -953,6 +953,12 @@
     "league": "portugal_2",
     "name": "Johan Bengtsson"
   },
+  "Q106514931": {
+    "club": "Burgos Club de Fútbol",
+    "first_seen": "2026-08-30T05:01:50.595957+00:00",
+    "league": "spain_2",
+    "name": "Jon Karrikaburu"
+  },
   "Q106532163": {
     "club": "",
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
@@ -18550,6 +18556,30 @@
     "first_seen": "2026-08-28T05:01:48.300581+00:00",
     "league": "spain_3",
     "name": "Senza nome (Q141198544)"
+  },
+  "Q141215147": {
+    "club": "",
+    "first_seen": "2026-08-30T05:01:50.595957+00:00",
+    "league": "Pool nazionalità",
+    "name": "Yohan Tadé"
+  },
+  "Q141215148": {
+    "club": "",
+    "first_seen": "2026-08-30T05:01:50.595957+00:00",
+    "league": "Pool nazionalità",
+    "name": "Amara Touré"
+  },
+  "Q141215152": {
+    "club": "",
+    "first_seen": "2026-08-30T05:01:50.595957+00:00",
+    "league": "Pool nazionalità",
+    "name": "Saidou Ouedraogo"
+  },
+  "Q141216793": {
+    "club": "Bilbao Athletic",
+    "first_seen": "2026-08-30T05:01:50.595957+00:00",
+    "league": "spain_3",
+    "name": "Senza nome (Q141216793)"
   },
   "Q29162779": {
     "club": "",
