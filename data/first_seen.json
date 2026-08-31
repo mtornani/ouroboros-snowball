@@ -5651,6 +5651,12 @@
     "league": "Pool nazionalità",
     "name": "Shakur Mohammed"
   },
+  "Q115860965": {
+    "club": "",
+    "first_seen": "2026-08-31T05:01:07.910254+00:00",
+    "league": "Pool nazionalità",
+    "name": "Bosun Lawal"
+  },
   "Q115864984": {
     "club": "",
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
@@ -18574,6 +18580,12 @@
     "first_seen": "2026-08-30T05:01:50.595957+00:00",
     "league": "Pool nazionalità",
     "name": "Saidou Ouedraogo"
+  },
+  "Q141215153": {
+    "club": "",
+    "first_seen": "2026-08-31T05:01:07.910254+00:00",
+    "league": "Pool nazionalità",
+    "name": "Ibrahima Samoura"
   },
   "Q141216793": {
     "club": "Bilbao Athletic",
