@@ -1643,6 +1643,12 @@
     "league": "spain_3",
     "name": "Samed Baždar"
   },
+  "Q107297844": {
+    "club": "Real Oviedo",
+    "first_seen": "2026-09-02T05:01:41.060717+00:00",
+    "league": "spain_2",
+    "name": "Mikel Goti"
+  },
   "Q107299476": {
     "club": "Football Club Den Bosch",
     "first_seen": "2026-08-11T17:27:15.317407+00:00",
@@ -17051,6 +17057,12 @@
     "league": "Pool nazionalità",
     "name": "Charles Agada"
   },
+  "Q1375717": {
+    "club": "Deportivo Toluca Fútbol Club",
+    "first_seen": "2026-09-02T05:01:41.060717+00:00",
+    "league": "Pool nazionalità",
+    "name": "Omar Arellano"
+  },
   "Q137587030": {
     "club": "Unión Deportiva Logroñés",
     "first_seen": "2026-08-15T05:01:12.608203+00:00",
@@ -18557,6 +18569,12 @@
     "league": "Pool nazionalità",
     "name": "Wills Tene Nkingne"
   },
+  "Q141176730": {
+    "club": "",
+    "first_seen": "2026-09-02T05:01:41.060717+00:00",
+    "league": "Pool nazionalità",
+    "name": "Senza nome (Q141176730)"
+  },
   "Q141198240": {
     "club": "Bilbao Athletic",
     "first_seen": "2026-08-28T05:01:48.300581+00:00",
@@ -18598,6 +18616,12 @@
     "first_seen": "2026-08-30T05:01:50.595957+00:00",
     "league": "spain_3",
     "name": "Senza nome (Q141216793)"
+  },
+  "Q141248695": {
+    "club": "Attram De Visser Soccer Academy",
+    "first_seen": "2026-09-02T05:01:41.060717+00:00",
+    "league": "Pool nazionalità",
+    "name": "Abdul Majeed Maswud"
   },
   "Q29162779": {
     "club": "",
