@@ -6167,6 +6167,12 @@
     "league": "Pool nazionalità",
     "name": "José Urías"
   },
+  "Q116940563": {
+    "club": "",
+    "first_seen": "2026-09-04T05:01:56.999115+00:00",
+    "league": "Pool nazionalità",
+    "name": "Ezekiel Soto"
+  },
   "Q116946491": {
     "club": "",
     "first_seen": "2026-07-05T09:40:02.363773+00:00",
@@ -15077,6 +15083,12 @@
     "league": "france_2",
     "name": "Sonny Yvars"
   },
+  "Q134711363": {
+    "club": "USL Dunkerque",
+    "first_seen": "2026-09-04T05:01:56.999115+00:00",
+    "league": "france_2",
+    "name": "Khalil Ayari"
+  },
   "Q134713602": {
     "club": "",
     "first_seen": "2026-07-06T06:59:23.094571+00:00",
@@ -18628,6 +18640,24 @@
     "first_seen": "2026-09-03T05:05:02.368212+00:00",
     "league": "Pool nazionalità",
     "name": "Keasse Bah"
+  },
+  "Q141267626": {
+    "club": "Heart of Lions Football Club",
+    "first_seen": "2026-09-04T05:01:56.999115+00:00",
+    "league": "Pool nazionalità",
+    "name": "Humaid Fuseini"
+  },
+  "Q141267908": {
+    "club": "Aduana Stars Football Club",
+    "first_seen": "2026-09-04T05:01:56.999115+00:00",
+    "league": "Pool nazionalità",
+    "name": "Benjamin Tsivanyo"
+  },
+  "Q141271456": {
+    "club": "Futebol Clube Paços de Ferreira",
+    "first_seen": "2026-09-04T05:01:56.999115+00:00",
+    "league": "portugal_2",
+    "name": "Vlad"
   },
   "Q29162779": {
     "club": "",
