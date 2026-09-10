@@ -8585,6 +8585,12 @@
     "league": "germany_2",
     "name": "Frans Krätzig"
   },
+  "Q120868357": {
+    "club": "1. Fußball-Club Kaiserslautern",
+    "first_seen": "2026-09-10T05:02:12.847289+00:00",
+    "league": "germany_2",
+    "name": "Alex Murphy"
+  },
   "Q120868365": {
     "club": "",
     "first_seen": "2026-07-06T06:59:23.094571+00:00",
@@ -13373,6 +13379,12 @@
     "league": "Pool nazionalità",
     "name": "Moses Amasi"
   },
+  "Q131519177": {
+    "club": "",
+    "first_seen": "2026-09-10T05:02:12.847289+00:00",
+    "league": "Pool nazionalità",
+    "name": "Prince Chibueze"
+  },
   "Q131520596": {
     "club": "",
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
@@ -16834,6 +16846,12 @@
     "first_seen": "2026-08-11T15:51:54.182576+00:00",
     "league": "spain_2",
     "name": "Ibai Aguirre"
+  },
+  "Q136766263": {
+    "club": "",
+    "first_seen": "2026-09-10T05:02:12.847289+00:00",
+    "league": "Pool nazionalità",
+    "name": "Kim Do-yeon"
   },
   "Q136766291": {
     "club": "",
