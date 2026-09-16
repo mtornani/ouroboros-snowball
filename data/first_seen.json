@@ -5645,6 +5645,12 @@
     "league": "Pool nazionalità",
     "name": "Miguel Vázquez"
   },
+  "Q115803687": {
+    "club": "Fußball-Club 2004 Ingolstadt",
+    "first_seen": "2026-09-16T05:01:59.412403+00:00",
+    "league": "germany_3",
+    "name": "Gustav Christensen"
+  },
   "Q115804572": {
     "club": "",
     "first_seen": "2026-07-06T05:48:35.291695+00:00",
@@ -8938,6 +8944,12 @@
     "first_seen": "2026-08-11T15:51:54.182576+00:00",
     "league": "germany_2",
     "name": "Robert Kwasigroch"
+  },
+  "Q122703456": {
+    "club": "",
+    "first_seen": "2026-09-16T05:01:59.412403+00:00",
+    "league": "Pool nazionalità",
+    "name": "Jordy Bawuah"
   },
   "Q122712485": {
     "club": "",
@@ -19024,6 +19036,48 @@
     "first_seen": "2026-09-15T05:04:30.448936+00:00",
     "league": "Pool nazionalità",
     "name": "Senza nome (Q141454271)"
+  },
+  "Q141454379": {
+    "club": "",
+    "first_seen": "2026-09-16T05:01:59.412403+00:00",
+    "league": "Pool nazionalità",
+    "name": "Senza nome (Q141454379)"
+  },
+  "Q141457571": {
+    "club": "",
+    "first_seen": "2026-09-16T05:01:59.412403+00:00",
+    "league": "Pool nazionalità",
+    "name": "Senza nome (Q141457571)"
+  },
+  "Q141458614": {
+    "club": "",
+    "first_seen": "2026-09-16T05:01:59.412403+00:00",
+    "league": "Pool nazionalità",
+    "name": "Amirhossein Taheri Tanha"
+  },
+  "Q141459914": {
+    "club": "",
+    "first_seen": "2026-09-16T05:01:59.412403+00:00",
+    "league": "Pool nazionalità",
+    "name": "Muhammed Hayatu"
+  },
+  "Q141472880": {
+    "club": "",
+    "first_seen": "2026-09-16T05:01:59.412403+00:00",
+    "league": "Pool nazionalità",
+    "name": "Senza nome (Q141472880)"
+  },
+  "Q141472886": {
+    "club": "",
+    "first_seen": "2026-09-16T05:01:59.412403+00:00",
+    "league": "Pool nazionalità",
+    "name": "Senza nome (Q141472886)"
+  },
+  "Q141472903": {
+    "club": "",
+    "first_seen": "2026-09-16T05:01:59.412403+00:00",
+    "league": "Pool nazionalità",
+    "name": "Senza nome (Q141472903)"
   },
   "Q29162779": {
     "club": "",
