@@ -11621,6 +11621,12 @@
     "league": "Pool nazionalità",
     "name": "Youba Koïta"
   },
+  "Q128523160": {
+    "club": "",
+    "first_seen": "2026-09-19T05:01:41.570812+00:00",
+    "league": "Pool nazionalità",
+    "name": "Soufiane El-Faouzi"
+  },
   "Q128580177": {
     "club": "Gangwon Football Club",
     "first_seen": "2026-07-06T06:59:23.094571+00:00",
@@ -16901,6 +16907,12 @@
     "league": "spain_3",
     "name": "Selton Sánchez"
   },
+  "Q136720164": {
+    "club": "",
+    "first_seen": "2026-09-19T05:01:41.570812+00:00",
+    "league": "Pool nazionalità",
+    "name": "Omar Achouitar"
+  },
   "Q136733619": {
     "club": "Urawa Red Diamonds",
     "first_seen": "2026-07-06T06:59:23.094571+00:00",
@@ -19114,6 +19126,78 @@
     "first_seen": "2026-09-17T05:01:57.810905+00:00",
     "league": "Pool nazionalità",
     "name": "Senza nome (Q141475471)"
+  },
+  "Q141493529": {
+    "club": "Modena Football Club 2018",
+    "first_seen": "2026-09-19T05:01:41.570812+00:00",
+    "league": "serie_b",
+    "name": "Daniel Tonoli"
+  },
+  "Q141493532": {
+    "club": "Al-Hilal Club",
+    "first_seen": "2026-09-19T05:01:41.570812+00:00",
+    "league": "Pool nazionalità",
+    "name": "Sabri Dahal"
+  },
+  "Q141493537": {
+    "club": "Virtus Entella",
+    "first_seen": "2026-09-19T05:01:41.570812+00:00",
+    "league": "serie_b",
+    "name": "Stefano Di Mario"
+  },
+  "Q141494171": {
+    "club": "Carrarese Calcio 1908",
+    "first_seen": "2026-09-19T05:01:41.570812+00:00",
+    "league": "serie_b",
+    "name": "David Vujevic"
+  },
+  "Q141494179": {
+    "club": "Calcio Padova",
+    "first_seen": "2026-09-19T05:01:41.570812+00:00",
+    "league": "serie_b",
+    "name": "Giovanni Giunti"
+  },
+  "Q141496078": {
+    "club": "Ascoli Calcio 1898 FC",
+    "first_seen": "2026-09-19T05:01:41.570812+00:00",
+    "league": "serie_b",
+    "name": "Samuele Vitale"
+  },
+  "Q141496679": {
+    "club": "Vado FC 1913",
+    "first_seen": "2026-09-19T05:01:41.570812+00:00",
+    "league": "Serie D",
+    "name": "Kevin Bruno"
+  },
+  "Q141496721": {
+    "club": "Valenciennes Football Club",
+    "first_seen": "2026-09-19T05:01:41.570812+00:00",
+    "league": "france_3",
+    "name": "Daou Diomandé"
+  },
+  "Q141496735": {
+    "club": "Empoli Football Club",
+    "first_seen": "2026-09-19T05:01:41.570812+00:00",
+    "league": "serie_b",
+    "name": "Danilo Busiello"
+  },
+  "Q141496761": {
+    "club": "Modena Football Club 2018",
+    "first_seen": "2026-09-19T05:01:41.570812+00:00",
+    "league": "serie_b",
+    "name": "Pietro Arnaboldi"
+  },
+  "Q141496763": {
+    "club": "H. Verona",
+    "first_seen": "2026-09-19T05:01:41.570812+00:00",
+    "league": "serie_b",
+    "name": "Noé Maël Tagne"
+  },
+  "Q141496780": {
+    "club": "Virtus Entella",
+    "first_seen": "2026-09-19T05:01:41.570812+00:00",
+    "league": "serie_b",
+    "name": "Marwane Kritta"
   },
   "Q29162779": {
     "club": "",
