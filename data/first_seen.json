@@ -13115,6 +13115,12 @@
     "league": "Pool nazionalità",
     "name": "Behzad Salami"
   },
+  "Q130809237": {
+    "club": "",
+    "first_seen": "2026-09-20T05:04:22.990951+00:00",
+    "league": "Pool nazionalità",
+    "name": "Alberto Baio"
+  },
   "Q130849391": {
     "club": "",
     "first_seen": "2026-07-02T05:42:55.027220+00:00",
@@ -16637,6 +16643,12 @@
     "league": "Pool nazionalità",
     "name": "Kim Yun-do"
   },
+  "Q136449108": {
+    "club": "",
+    "first_seen": "2026-09-20T05:04:22.990951+00:00",
+    "league": "Pool nazionalità",
+    "name": "Kim Ye-geon"
+  },
   "Q136449331": {
     "club": "",
     "first_seen": "2026-07-06T06:59:23.094571+00:00",
@@ -17681,6 +17693,12 @@
     "league": "Pool nazionalità",
     "name": "Senza nome (Q139389268)"
   },
+  "Q139499488": {
+    "club": "",
+    "first_seen": "2026-09-20T05:04:22.990951+00:00",
+    "league": "Pool nazionalità",
+    "name": "Aristide Hentcho Nseke"
+  },
   "Q139500359": {
     "club": "",
     "first_seen": "2026-07-31T06:12:37.118376+00:00",
@@ -17698,6 +17716,12 @@
     "first_seen": "2026-08-25T05:04:49.672676+00:00",
     "league": "france_2",
     "name": "Tanguy Ahile"
+  },
+  "Q139569754": {
+    "club": "",
+    "first_seen": "2026-09-20T05:04:22.990951+00:00",
+    "league": "Pool nazionalità",
+    "name": "Mame Alassane Niang"
   },
   "Q139575728": {
     "club": "Club Deportivo Mirandés",
@@ -19139,6 +19163,12 @@
     "league": "Pool nazionalità",
     "name": "Sabri Dahal"
   },
+  "Q141493535": {
+    "club": "Stade de Reims",
+    "first_seen": "2026-09-20T05:04:22.990951+00:00",
+    "league": "Pool nazionalità",
+    "name": "John Otomewo"
+  },
   "Q141493537": {
     "club": "Virtus Entella",
     "first_seen": "2026-09-19T05:01:41.570812+00:00",
@@ -19198,6 +19228,12 @@
     "first_seen": "2026-09-19T05:01:41.570812+00:00",
     "league": "serie_b",
     "name": "Marwane Kritta"
+  },
+  "Q141499339": {
+    "club": "Stade Rennais FC B",
+    "first_seen": "2026-09-20T05:04:22.990951+00:00",
+    "league": "Pool nazionalità",
+    "name": "Issa Habri"
   },
   "Q29162779": {
     "club": "",
