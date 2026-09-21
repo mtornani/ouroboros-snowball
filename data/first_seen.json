@@ -19175,6 +19175,12 @@
     "league": "serie_b",
     "name": "Stefano Di Mario"
   },
+  "Q141493538": {
+    "club": "Sporting CP B",
+    "first_seen": "2026-09-21T05:05:33.817982+00:00",
+    "league": "portugal_2",
+    "name": "Paulo Cardoso"
+  },
   "Q141494171": {
     "club": "Carrarese Calcio 1908",
     "first_seen": "2026-09-19T05:01:41.570812+00:00",
@@ -19187,11 +19193,59 @@
     "league": "serie_b",
     "name": "Giovanni Giunti"
   },
+  "Q141494206": {
+    "club": "Sport Clube União Torreense",
+    "first_seen": "2026-09-21T05:05:33.817982+00:00",
+    "league": "portugal_2",
+    "name": "André Simões"
+  },
+  "Q141494236": {
+    "club": "Sport Lisboa e Benfica B",
+    "first_seen": "2026-09-21T05:05:33.817982+00:00",
+    "league": "portugal_2",
+    "name": "João Fonseca"
+  },
+  "Q141494283": {
+    "club": "U.D. Oliveirense",
+    "first_seen": "2026-09-21T05:05:33.817982+00:00",
+    "league": "portugal_2",
+    "name": "Vasco Santos"
+  },
+  "Q141494288": {
+    "club": "Kieler Sportvereinigung Holstein von 1900",
+    "first_seen": "2026-09-21T05:05:33.817982+00:00",
+    "league": "germany_2",
+    "name": "Ikem Ugoh"
+  },
+  "Q141495935": {
+    "club": "Leixões Sport Club",
+    "first_seen": "2026-09-21T05:05:33.817982+00:00",
+    "league": "portugal_2",
+    "name": "Cláudio Araújo"
+  },
+  "Q141496004": {
+    "club": "Futebol Clube do Porto B",
+    "first_seen": "2026-09-21T05:05:33.817982+00:00",
+    "league": "portugal_2",
+    "name": "André Oliveira"
+  },
+  "Q141496024": {
+    "club": "Futebol Clube de Vizela",
+    "first_seen": "2026-09-21T05:05:33.817982+00:00",
+    "league": "portugal_2",
+    "name": "José Sampaio"
+  },
   "Q141496078": {
     "club": "Ascoli Calcio 1898 FC",
     "first_seen": "2026-09-19T05:01:41.570812+00:00",
     "league": "serie_b",
     "name": "Samuele Vitale"
+  },
+  "Q141496138": {
+    "club": "Portimonense Sporting Clube",
+    "first_seen": "2026-09-21T05:05:33.817982+00:00",
+    "league": "portugal_2",
+    "name": "Marlon Júnior"
   },
   "Q141496679": {
     "club": "Vado FC 1913",
@@ -19205,11 +19259,23 @@
     "league": "france_3",
     "name": "Daou Diomandé"
   },
+  "Q141496732": {
+    "club": "AVS Futebol SAD",
+    "first_seen": "2026-09-21T05:05:33.817982+00:00",
+    "league": "portugal_2",
+    "name": "Bernardo Conde"
+  },
   "Q141496735": {
     "club": "Empoli Football Club",
     "first_seen": "2026-09-19T05:01:41.570812+00:00",
     "league": "serie_b",
     "name": "Danilo Busiello"
+  },
+  "Q141496753": {
+    "club": "Verein für Leibesübungen Bochum 1848",
+    "first_seen": "2026-09-21T05:05:33.817982+00:00",
+    "league": "germany_2",
+    "name": "Lasse Isbruch"
   },
   "Q141496761": {
     "club": "Modena Football Club 2018",
@@ -19223,6 +19289,12 @@
     "league": "serie_b",
     "name": "Noé Maël Tagne"
   },
+  "Q141496765": {
+    "club": "1. Fussballclub Heidenheim 1846",
+    "first_seen": "2026-09-21T05:05:33.817982+00:00",
+    "league": "germany_2",
+    "name": "Marko Zrilić"
+  },
   "Q141496780": {
     "club": "Virtus Entella",
     "first_seen": "2026-09-19T05:01:41.570812+00:00",
@@ -19234,6 +19306,12 @@
     "first_seen": "2026-09-20T05:04:22.990951+00:00",
     "league": "Pool nazionalità",
     "name": "Issa Habri"
+  },
+  "Q141501856": {
+    "club": "",
+    "first_seen": "2026-09-21T05:05:33.817982+00:00",
+    "league": "Pool nazionalità",
+    "name": "Fodié Camara"
   },
   "Q29162779": {
     "club": "",
