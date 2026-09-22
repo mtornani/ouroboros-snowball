@@ -18797,6 +18797,12 @@
     "league": "Pool nazionalità",
     "name": "Abdul Majeed Maswud"
   },
+  "Q141252856": {
+    "club": "",
+    "first_seen": "2026-09-22T05:04:45.833855+00:00",
+    "league": "Pool nazionalità",
+    "name": "Geovanni Vianney Ndjee"
+  },
   "Q141255107": {
     "club": "US Catanzaro 1929",
     "first_seen": "2026-09-14T05:01:35.337971+00:00",
@@ -19151,6 +19157,12 @@
     "league": "Pool nazionalità",
     "name": "Senza nome (Q141475471)"
   },
+  "Q141486184": {
+    "club": "",
+    "first_seen": "2026-09-22T05:04:45.833855+00:00",
+    "league": "Pool nazionalità",
+    "name": "Senza nome (Q141486184)"
+  },
   "Q141493529": {
     "club": "Modena Football Club 2018",
     "first_seen": "2026-09-19T05:01:41.570812+00:00",
@@ -19181,6 +19193,12 @@
     "league": "portugal_2",
     "name": "Paulo Cardoso"
   },
+  "Q141494170": {
+    "club": "AC Reggiana 1919",
+    "first_seen": "2026-09-22T05:04:45.833855+00:00",
+    "league": "Serie C",
+    "name": "Simone Bonetti"
+  },
   "Q141494171": {
     "club": "Carrarese Calcio 1908",
     "first_seen": "2026-09-19T05:01:41.570812+00:00",
@@ -19193,11 +19211,29 @@
     "league": "serie_b",
     "name": "Giovanni Giunti"
   },
+  "Q141494196": {
+    "club": "Clermont Foot Auvergne",
+    "first_seen": "2026-09-22T05:04:45.833855+00:00",
+    "league": "france_2",
+    "name": "Ibrahim Coulibaly"
+  },
+  "Q141494197": {
+    "club": "Clermont Foot Auvergne",
+    "first_seen": "2026-09-22T05:04:45.833855+00:00",
+    "league": "france_2",
+    "name": "Enzo Cantero"
+  },
   "Q141494206": {
     "club": "Sport Clube União Torreense",
     "first_seen": "2026-09-21T05:05:33.817982+00:00",
     "league": "portugal_2",
     "name": "André Simões"
+  },
+  "Q141494208": {
+    "club": "Clermont Foot Auvergne",
+    "first_seen": "2026-09-22T05:04:45.833855+00:00",
+    "league": "france_2",
+    "name": "El Hadj Koné"
   },
   "Q141494236": {
     "club": "Sport Lisboa e Benfica B",
@@ -19205,17 +19241,65 @@
     "league": "portugal_2",
     "name": "João Fonseca"
   },
+  "Q141494241": {
+    "club": "Atalanta Bergamasca Calcio U23",
+    "first_seen": "2026-09-22T05:04:45.833855+00:00",
+    "league": "Serie C",
+    "name": "Javison Idele"
+  },
   "Q141494283": {
     "club": "U.D. Oliveirense",
     "first_seen": "2026-09-21T05:05:33.817982+00:00",
     "league": "portugal_2",
     "name": "Vasco Santos"
   },
+  "Q141494284": {
+    "club": "Grenoble Foot 38",
+    "first_seen": "2026-09-22T05:04:45.833855+00:00",
+    "league": "france_2",
+    "name": "Nesta Zahui"
+  },
   "Q141494288": {
     "club": "Kieler Sportvereinigung Holstein von 1900",
     "first_seen": "2026-09-21T05:05:33.817982+00:00",
     "league": "germany_2",
     "name": "Ikem Ugoh"
+  },
+  "Q141494385": {
+    "club": "Juventus Next Gen",
+    "first_seen": "2026-09-22T05:04:45.833855+00:00",
+    "league": "Serie C",
+    "name": "Filippo Pagnucco"
+  },
+  "Q141494387": {
+    "club": "Atalanta Bergamasca Calcio U23",
+    "first_seen": "2026-09-22T05:04:45.833855+00:00",
+    "league": "Serie C",
+    "name": "Nicolò Baldo"
+  },
+  "Q141494388": {
+    "club": "Atalanta Bergamasca Calcio U23",
+    "first_seen": "2026-09-22T05:04:45.833855+00:00",
+    "league": "Serie C",
+    "name": "Jacopo Mirra"
+  },
+  "Q141495843": {
+    "club": "Football Club Internazionale Milano U23",
+    "first_seen": "2026-09-22T05:04:45.833855+00:00",
+    "league": "Serie C",
+    "name": "Francesco Stante"
+  },
+  "Q141495853": {
+    "club": "Atalanta Bergamasca Calcio U23",
+    "first_seen": "2026-09-22T05:04:45.833855+00:00",
+    "league": "Serie C",
+    "name": "Giulio Misitano"
+  },
+  "Q141495915": {
+    "club": "Rodez Aveyron Football",
+    "first_seen": "2026-09-22T05:04:45.833855+00:00",
+    "league": "france_2",
+    "name": "Octave Joly"
   },
   "Q141495935": {
     "club": "Leixões Sport Club",
@@ -19228,6 +19312,12 @@
     "first_seen": "2026-09-21T05:05:33.817982+00:00",
     "league": "portugal_2",
     "name": "André Oliveira"
+  },
+  "Q141496015": {
+    "club": "US Salernitana 1919",
+    "first_seen": "2026-09-22T05:04:45.833855+00:00",
+    "league": "Serie C",
+    "name": "Simone Pieraccini"
   },
   "Q141496024": {
     "club": "Futebol Clube de Vizela",
@@ -19247,11 +19337,59 @@
     "league": "portugal_2",
     "name": "Marlon Júnior"
   },
+  "Q141496139": {
+    "club": "Union Sportive Boulogne Côte d'Opale",
+    "first_seen": "2026-09-22T05:04:45.833855+00:00",
+    "league": "france_2",
+    "name": "Aurélien Platret"
+  },
   "Q141496679": {
     "club": "Vado FC 1913",
     "first_seen": "2026-09-19T05:01:41.570812+00:00",
     "league": "Serie D",
     "name": "Kevin Bruno"
+  },
+  "Q141496684": {
+    "club": "US Livorno 1915",
+    "first_seen": "2026-09-22T05:04:45.833855+00:00",
+    "league": "Serie C",
+    "name": "Giacomo Gabbiani"
+  },
+  "Q141496692": {
+    "club": "Delfino Pescara 1936",
+    "first_seen": "2026-09-22T05:04:45.833855+00:00",
+    "league": "Serie C",
+    "name": "Leonardo Graziani"
+  },
+  "Q141496694": {
+    "club": "Atalanta Bergamasca Calcio U23",
+    "first_seen": "2026-09-22T05:04:45.833855+00:00",
+    "league": "Serie C",
+    "name": "Matteo Plaia"
+  },
+  "Q141496695": {
+    "club": "Football Club de Metz",
+    "first_seen": "2026-09-22T05:04:45.833855+00:00",
+    "league": "france_2",
+    "name": "Édouard Soumah-Abbad"
+  },
+  "Q141496696": {
+    "club": "Union Sportive Boulogne Côte d'Opale",
+    "first_seen": "2026-09-22T05:04:45.833855+00:00",
+    "league": "france_2",
+    "name": "Martin Lecolier"
+  },
+  "Q141496712": {
+    "club": "Spezia Calcio",
+    "first_seen": "2026-09-22T05:04:45.833855+00:00",
+    "league": "Serie C",
+    "name": "Alessandro Cardinali"
+  },
+  "Q141496713": {
+    "club": "Union Sportive Orléans 45 Football",
+    "first_seen": "2026-09-22T05:04:45.833855+00:00",
+    "league": "france_2",
+    "name": "Mamadou Diako"
   },
   "Q141496721": {
     "club": "Valenciennes Football Club",
@@ -19265,11 +19403,35 @@
     "league": "portugal_2",
     "name": "Bernardo Conde"
   },
+  "Q141496733": {
+    "club": "Football Club Internazionale Milano U23",
+    "first_seen": "2026-09-22T05:04:45.833855+00:00",
+    "league": "Serie C",
+    "name": "Matias Mancuso"
+  },
   "Q141496735": {
     "club": "Empoli Football Club",
     "first_seen": "2026-09-19T05:01:41.570812+00:00",
     "league": "serie_b",
     "name": "Danilo Busiello"
+  },
+  "Q141496738": {
+    "club": "Association Sportive Nancy-Lorraine",
+    "first_seen": "2026-09-22T05:04:45.833855+00:00",
+    "league": "france_2",
+    "name": "Kouroufia Kébé"
+  },
+  "Q141496739": {
+    "club": "Stade Lavallois Mayenne Football Club",
+    "first_seen": "2026-09-22T05:04:45.833855+00:00",
+    "league": "france_2",
+    "name": "Esteban Mouton"
+  },
+  "Q141496745": {
+    "club": "Juventus Next Gen",
+    "first_seen": "2026-09-22T05:04:45.833855+00:00",
+    "league": "Serie C",
+    "name": "Francesco Leone"
   },
   "Q141496753": {
     "club": "Verein für Leibesübungen Bochum 1848",
@@ -19312,6 +19474,84 @@
     "first_seen": "2026-09-21T05:05:33.817982+00:00",
     "league": "Pool nazionalità",
     "name": "Fodié Camara"
+  },
+  "Q141504542": {
+    "club": "Football Club Seoul",
+    "first_seen": "2026-09-22T05:04:45.833855+00:00",
+    "league": "Pool nazionalità",
+    "name": "Shin Ji-seop"
+  },
+  "Q141505174": {
+    "club": "Spezia Calcio",
+    "first_seen": "2026-09-22T05:04:45.833855+00:00",
+    "league": "Serie C",
+    "name": "Pietro Candelari"
+  },
+  "Q141505190": {
+    "club": "Savoia 1908 Football Club",
+    "first_seen": "2026-09-22T05:04:45.833855+00:00",
+    "league": "Serie D",
+    "name": "Giulio Patrignani"
+  },
+  "Q141505192": {
+    "club": "Atalanta Bergamasca Calcio U23",
+    "first_seen": "2026-09-22T05:04:45.833855+00:00",
+    "league": "Serie C",
+    "name": "Federico Simonetto"
+  },
+  "Q141505193": {
+    "club": "Mantova 1911",
+    "first_seen": "2026-09-22T05:04:45.833855+00:00",
+    "league": "serie_b",
+    "name": "Jonathan Silva"
+  },
+  "Q141505249": {
+    "club": "Delfino Pescara 1936",
+    "first_seen": "2026-09-22T05:04:45.833855+00:00",
+    "league": "Serie C",
+    "name": "Ivan Saio"
+  },
+  "Q141505257": {
+    "club": "US Salernitana 1919",
+    "first_seen": "2026-09-22T05:04:45.833855+00:00",
+    "league": "Serie C",
+    "name": "Gianluca Longobardi"
+  },
+  "Q141505263": {
+    "club": "Ascoli Calcio 1898 FC",
+    "first_seen": "2026-09-22T05:04:45.833855+00:00",
+    "league": "serie_b",
+    "name": "Manuel Alagna"
+  },
+  "Q141505278": {
+    "club": "US Catanzaro 1929",
+    "first_seen": "2026-09-22T05:04:45.833855+00:00",
+    "league": "serie_b",
+    "name": "Bruno Verrengia"
+  },
+  "Q141505279": {
+    "club": "SS Juve Stabia",
+    "first_seen": "2026-09-22T05:04:45.833855+00:00",
+    "league": "serie_b",
+    "name": "Luigi Caccavo"
+  },
+  "Q141505296": {
+    "club": "Carrarese Calcio 1908",
+    "first_seen": "2026-09-22T05:04:45.833855+00:00",
+    "league": "serie_b",
+    "name": "Lorenzo Romani"
+  },
+  "Q141507418": {
+    "club": "",
+    "first_seen": "2026-09-22T05:04:45.833855+00:00",
+    "league": "Pool nazionalità",
+    "name": "Maël Fernandez"
+  },
+  "Q141511169": {
+    "club": "Siwelele Football Club",
+    "first_seen": "2026-09-22T05:04:45.833855+00:00",
+    "league": "Pool nazionalità",
+    "name": "Hamza Issah"
   },
   "Q29162779": {
     "club": "",
