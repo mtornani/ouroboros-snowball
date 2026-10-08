@@ -18,7 +18,7 @@
     "min_score": 40,
     "match_threshold": 88,
     "min_lead_days": 14,
-    "max_hits_per_day": 2,
+    "max_hits_per_day": 0,
 
     "retro_queries": [
         "ufficiale firma giovane calciatore Serie D",
