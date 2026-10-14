@@ -90,8 +90,6 @@ a:hover {{ color:var(--accent-hover); }}
   <div class="stats-row">
     <div class="stat"><div class="stat-value">{n_hits}</div>
         <div class="stat-label">Retrodizioni</div></div>
-    <div class="stat"><div class="stat-value">{avg_lead}</div>
-        <div class="stat-label">Anticipo medio (gg)</div></div>
   </div>
   <div id="cards"></div>
   <p class="text-muted" style="margin-top:var(--space-lg);font-size:var(--text-sm)">
@@ -110,7 +108,7 @@ function render() {{
         <div class="card-title">${{c.title}}</div>
         <p>${{c.body}}</p>
         <p class="text-muted font-mono" style="font-size:12px;margin-top:8px">
-         ${{c.date}}${{c.lead_days ? ' · anticipo ' + c.lead_days + ' giorni' : ''}}
+         ${{c.date}}
         </p>
         ${{c.source_url ? `<p style="margin-top:4px"><a href="${{c.source_url}}"
          target="_blank" rel="noopener">Fonte esterna</a></p>` : ''}}
@@ -127,6 +125,30 @@ def _load_cards() -> list:
     if CARDS_PATH.exists():
         return json.loads(CARDS_PATH.read_text(encoding="utf-8"))
     return []
+
+
+def _render_page(cards: list, config: dict) -> str:
+    """Render the archive page.
+
+    Policy: no lead-day / "anticipo" claims are published. Past-prediction
+    claims require a verifiable date plus a public source; estimated lead
+    days are stripped from the public output.
+    """
+    hits = [c for c in cards if c.get("kind") == "hit"]
+    public_cards = [{k: v for k, v in c.items() if k != "lead_days"}
+                    for c in cards]
+    return PAGE_TEMPLATE.format(
+        brand=html.escape(config.get("public_brand", "Ouroboros Radar")),
+        generated_at=datetime.utcnow().strftime("%d/%m/%Y"),
+        n_hits=len(hits),
+        site_url=html.escape(config.get("site_url", "")),
+        cards_json=json.dumps(public_cards, ensure_ascii=False),
+    )
+
+
+def regenerate(config: dict) -> bool:
+    INDEX_PATH.write_text(_render_page(_load_cards(), config), encoding="utf-8")
+    return True
 
 
 def publish(kind: str, title: str, body: str, config: dict,
@@ -149,17 +171,7 @@ def publish(kind: str, title: str, body: str, config: dict,
             json.dumps(cards, ensure_ascii=False, indent=2),
             encoding="utf-8")
 
-        hits = [c for c in cards if c["kind"] == "hit" and c.get("lead_days")]
-        avg_lead = round(sum(c["lead_days"] for c in hits) / len(hits)) if hits else 0
-
-        page = PAGE_TEMPLATE.format(
-            brand=html.escape(config.get("public_brand", "Ouroboros Radar")),
-            generated_at=datetime.utcnow().strftime("%d/%m/%Y"),
-            n_hits=len(hits),
-            avg_lead=avg_lead,
-            site_url=html.escape(config.get("site_url", "")),
-            cards_json=json.dumps(cards, ensure_ascii=False),
-        )
+        page = _render_page(cards, config)
         INDEX_PATH.write_text(page, encoding="utf-8")
         logger.info(f"Archive updated: {len(cards)} cards → {INDEX_PATH}")
         return True
