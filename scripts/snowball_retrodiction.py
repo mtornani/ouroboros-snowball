@@ -259,25 +259,20 @@ def dedup_hits(hits: list) -> list:
 def compose_x(hit: dict, config: dict) -> str:
     """X card: <=280 chars, quotable. Niente URL nel testo (pricing X: post
     con link costano 13x pay-per-use) — l'archivio si richiama a parole."""
-    weeks = hit["lead_days"] // 7
-    lead = f"{weeks} settimane" if weeks >= 2 else f"{hit['lead_days']} giorni"
     return (
         f"🎯 {hit['player']} era nel nostro radar dal "
         f"{hit['flagged_at'][:10]}.\n"
-        f"Oggi è notizia. Anticipo: {lead}.\n"
+        f"Oggi è notizia.\n"
         f"Archivio timestampato: link in bio"
     )
 
 
 def compose_telegram(hit: dict, config: dict) -> str:
     brand = config.get("public_brand", "Ouroboros Radar")
-    weeks = hit["lead_days"] // 7
-    lead = f"{weeks} settimane" if weeks >= 2 else f"{hit['lead_days']} giorni"
     return (
         f"🎯 *RETRODIZIONE* — {esc(brand)}\n\n"
         f"*{esc(hit['player'])}* era nel radar dal *{esc(hit['flagged_at'][:10])}*\\.\n"
         f"Oggi: {esc(hit['news_title'][:120])}\n\n"
-        f"⏱ Anticipo: *{esc(lead)}*\\.\n"
         f"📎 [Fonte]({hit['news_url']})\n\n"
         f"_L'archivio timestampato è la prova\\._"
     )
