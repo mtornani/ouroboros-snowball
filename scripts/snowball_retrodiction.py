@@ -319,7 +319,7 @@ def main():
                     body=f"Segnalato il {hit['flagged_at'][:10]}. "
                          f"Oggi: {hit['news_title'][:140]}",
                     config=config,
-                    lead_days=hit["lead_days"],
+                    lead_days=None,  # estimated: never public
                     source_url=hit["news_url"],
                 ))
             if channels.get("telegram_public", False):

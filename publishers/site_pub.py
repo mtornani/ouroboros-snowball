@@ -161,9 +161,11 @@ def publish(kind: str, title: str, body: str, config: dict,
             "title": html.escape(title),
             "body": html.escape(body),
             "date": datetime.utcnow().strftime("%Y-%m-%d"),
-            "lead_days": lead_days,
+            "lead_days": None,  # estimates never written to public cards.json
             "source_url": source_url,  # rendered as attribute, trusted RSS link
         })
+        for c in cards:
+            c["lead_days"] = None
         cards = cards[:200]  # keep page light
 
         CARDS_PATH.parent.mkdir(parents=True, exist_ok=True)
