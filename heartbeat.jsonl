@@ -107,3 +107,4 @@
 {"ts": "2026-10-24T09:56:58.442810", "job": "snowball_retrodiction", "status": "ok", "news": 273, "hits": 0, "posted": 0}
 {"ts": "2026-10-25T10:19:25.594077", "job": "snowball_retrodiction", "status": "ok", "news": 238, "hits": 0, "posted": 0}
 {"ts": "2026-10-26T11:46:15.588881", "job": "snowball_retrodiction", "status": "ok", "news": 276, "hits": 0, "posted": 0}
+{"ts": "2026-10-26T14:02:12.947557", "job": "snowball_digest", "status": "ok_empty"}
