@@ -82,3 +82,5 @@ Anche su X, da zero, i primi mesi sono lenti. I momenti di crescita sono
 gli hit di retrodizione: ogni hit è marketing verificabile che si genera
 da solo. L'archivio compone: più il sistema invecchia, più vale.
 Cassa: decine di euro/mese all'inizio — ma ricorrente, e senza di te.
+
+<!-- // rev df6e9074 -->
