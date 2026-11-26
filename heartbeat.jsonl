@@ -142,3 +142,4 @@
 {"ts": "2026-11-23T19:05:32.591039", "job": "snowball_digest", "status": "partial", "public": 50, "total": 50, "x": false, "site": true, "tg_priv": false}
 {"ts": "2026-11-24T16:39:42.902339", "job": "snowball_retrodiction", "status": "ok", "news": 253, "hits": 1, "posted": 0}
 {"ts": "2026-11-25T16:22:39.746947", "job": "snowball_retrodiction", "status": "ok", "news": 250, "hits": 2, "posted": 0}
+{"ts": "2026-11-26T15:57:04.535800", "job": "snowball_retrodiction", "status": "ok", "news": 164, "hits": 0, "posted": 0}
